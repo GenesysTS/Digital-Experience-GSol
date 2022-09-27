@@ -8,9 +8,9 @@ weight: 30
 
 ## Content Offer
 
-1.Open the Predictive Engagement application.
-2.Open the GSol website, and log into it (make sure to select PureCloud as a platform).
-3.Go to the Residential page
+1. Open the Predictive Engagement application.
+2. Open the GSol website, and log into it (make sure to select PureCloud as a platform).
+3. Go to the Residential page
 Fill up the first section of the form
 Your GDemo contact informatio should be loaded from your account (make sure to login)
 Select Yes to the question - Are you homeowner?
