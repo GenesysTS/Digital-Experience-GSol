@@ -34,4 +34,4 @@ Route the call the appropriate Queue/Skill/Agent
 As the Agent answers the call, the GPE Customer Journey, Identity Stitching journey visualization may be selected and displayed.  The Agent may now see the Outcome Scores and any Segments matched along with current and historical interaction and journey information to address the customer’s call Intent “Customer Care”
 
 
-![Two](/images/Login.PNG)
+![Two](/images/file_1637598327026_GPE_service_segment.png)
