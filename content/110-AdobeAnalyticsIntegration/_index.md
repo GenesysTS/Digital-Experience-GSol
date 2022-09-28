@@ -11,7 +11,7 @@ In order to access Adobe Analytics, go to the following url:
 https://experience.adobe.com/login
 Sign In with the following credentials:
 
-User: gts@genesys.com
+User: #### gts@genesys.com
 Password: TSRocks1!
 Please make sure not to register this account with your own device
 
