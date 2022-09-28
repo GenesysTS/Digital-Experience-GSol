@@ -6,8 +6,6 @@ weight: 30
 
 ![Title](/images/Login.PNG)
 
-## Objective
-
 ### Predictive Engagement demo preparation
 
 Please clear browser's cache prior to the demonstrating any predictive engagement scenario and "Reset Altocloud" in the footer of GSol web site.
