@@ -16,10 +16,14 @@ My Account" menu
 Choose "Web Messenger" in the "Widget Type" combobox
 Click "Apply" button
 
+![One](/images/Login.PNG)
+
 > Notes: The activation of the Web Messaging will be remebered and stay active till the moment when browser's data are cleared.
 
 ### Authentication / Passing data to the Architect - Inbound Message Flow
 
 GSol uses Database plugin of Messenger JavaScript SDK to pass user data and login related information to the Architect's Inbound Message Flow.
 As a result the access to some operations is closed for the users who are not logged in into GSol web site.
+
+![One](/images/Login.PNG)
 
