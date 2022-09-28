@@ -1,7 +1,7 @@
 ---
 title: "Self-Service bot"
 chapter: true
-weight: 40
+weight: 60
 ---
 
 ![Title](/images/Login.PNG)
