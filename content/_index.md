@@ -1,16 +1,17 @@
 ---
-title: "Genesys Workshop"
+title: "GSol"
 chapter: true
 weight: 1
 ---
 
-# Genesys Workshop
+## Welcome
 
-### Welcome
+In this workshop, you will learn how use GSol application to demo various scenarios with with PureCloudNow.
 
-In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
+### Prerequisites
+
+- [Genesys Cloud CX Dev Lab Setup](https://workshop.genesys.com/workshops/gride-demo/)
 
 ### Learning Objectives
-- Setup and configure your environment.
-- Creating users and groups.
-- Configure security.
+- Set up GSol for PureCloudNow 
+- Run demo 
