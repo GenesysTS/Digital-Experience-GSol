@@ -10,14 +10,14 @@ To get access to the Support Center please use one of following methods:
 
 ### Method 1
 
-Hover your mouse cursor over Messenger icon   (1)  
-Click on the appearing icon with a question mark  (2)  .
+1. Hover your mouse cursor over **Messenger** icon   (1)  
+2. Click on the appearing icon with a question mark  (2)  .
 
 
 ### Method 2
 
-Press "Magnifying glass" icon
-The text specified in the web site's search field will be tranferred into Support Center's search field
+1. Press **"Magnifying glass"** icon
+2. The text specified in the web site's search field will be tranferred into Support Center's search field
 
 
 Once Support Center is opened, browse articles or search for the knowledge.
