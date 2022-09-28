@@ -14,7 +14,7 @@ Depending on your customer profile, you will be offered a personalized service o
 If you do not visit the website, a voice bot will be offered to you. For additional reference, please refer to the "scenario: self-service bot" section.
 You can also reset the customer segment using the link in the footer 'Reset Customer Segment' to demo the voice bot.
 
-![One](/images/Login.PNG)
+![One](/images/file_1637598294651_GPE_reset_segments.png)
 
 ### Sales Support Scenario. 
 A known visitor arrives at the GSol GDemo website. The visitor places item(s) in a shopping cart: 
