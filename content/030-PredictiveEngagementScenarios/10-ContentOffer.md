@@ -20,3 +20,8 @@ weight: 10
 - DO NOT click   Interested   button
 - Click on the GSol icon and redirect to the homepage of GSol 
 - Wait for few seconds and a content offer will be displayed as a modal
+
+![One](/images/Login.PNG)
+
+- Click on the   Check it out!   Call To Action (CTA) button 
+- You will be redirected to the "Tax Credit Advisor" page with the additional information
