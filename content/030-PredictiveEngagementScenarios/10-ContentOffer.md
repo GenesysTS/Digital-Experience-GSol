@@ -9,7 +9,7 @@ weight: 10
 2. Navigate to Admin > Predictive Engagement > Live Now
 3. Visit [GSol web site](https://gsolgc.demo.genesys.com/) and login 
 4. Go to **"Residential"** page and scroll down
-5. Fill up all "Contact Information" section of the form
+5. Fill up all ^^"Contact Information"** section of the form
 - Your GDemo contact informatio should be loaded from your account (make sure to login)
 - Select Yes to the question "Are you homeowner?"
 - Click   Next  
