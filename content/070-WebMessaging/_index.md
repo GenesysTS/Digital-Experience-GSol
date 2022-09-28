@@ -1,5 +1,5 @@
 ---
-title: "Content Offer"
+title: "Web Messaging"
 chapter: true
 weight: 70
 ---
