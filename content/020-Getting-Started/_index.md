@@ -1,23 +1,24 @@
 ---
-title: "Getting Started"
+title: "Setup"
 chapter: true
-weight: 20
+weight: 30
 ---
 
-## Tools You'll Need
+![Title](/images/Setup.PNG)
 
 
-* ### Github 
-    #### - Our repository can be found [here] (https://github.com/genesys-samples/cxAsCodeDevlab)
+PureCloudNow organization - https://login.mypurecloud.com/#/authenticate-adv/org/purecloudnow
 
-* ### New Folder
-    #### - Create and open a folder on your PC where you plan to store code locally. Ex: We created a folder on our Local Disk titled "Dev Projects".
+Agent Workspace (Maverick) - https://apps.mypurecloud.com/digital-desktop/#/work
 
-* ### GitBash
-    #### -If you are using Git Bash outside of VScode, open Git Bash from this folder by right clicking a blank area within the folder and selecting “Git Bash Here" (see image below)
-    ![Gitbash](/images/gitbash.png)
-    
-* ### Microsoft VS Code
-    #### - Can be downloaded [Here](https://code.visualstudio.com/download)
-    #### -Open VS code from this folder by right clicking a blank area within the folder and selecting "Open With Code" (See image above)
+ 
 
+GSol website  is available at https://gsolgc.demo.genesys.com/ 
+
+To perform GSol - DIGITAL demonstration you would need to use custom Web Messenger deployment:
+
+login into GSol web site using your GDemo credentials.
+select "My Account" menu item
+select "Custom Web Messenger" checkbox
+enter 2f2c9835-a028-4bae-858d-a623648b7841 in the "Specify Web Messenger Deployment Key" field
+click on   Apply   button
