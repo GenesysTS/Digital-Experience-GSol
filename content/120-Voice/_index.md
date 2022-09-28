@@ -10,13 +10,13 @@ You can reach GSol Customer Service with this number: (+1) 866-288-8546
  
 Depending on your customer profile, you will be offered a personalized service on the phone. To illustrate this personalization, we created 3 segments 'High Value Shopper', 'Customer Care Needed', and 'Customer' and we are using Genesys Predictive Engagement to update the customer segment based on the customer web activities in this demo.
  
-### 1.Self-Service Bot
+### Self-Service Bot
 If you do not visit the website, a voice bot will be offered to you. For additional reference, please refer to the "scenario: self-service bot" section.
 You can also reset the customer segment using the link in the footer 'Reset Customer Segment' to demo the voice bot.
 
 ![One](/images/Login.PNG)
 
-### 2.Sales Support Scenario. 
+### Sales Support Scenario. 
 A known visitor arrives at the GSol GDemo website. The visitor places item(s) in a shopping cart: 
 Genesys Predictive Engagement identifies the visitor as a Segment “High-Value Shopper” based upon the shopping cart dollar amount value or based upon the specific items placed into the cart. Select the Renogy Solar Panel item (+$500)
 The Visitor calls the Business “GSol”.  When a Segment is matched prior to a call, the Segment may be correlated with a “Call Intent”.
@@ -25,7 +25,7 @@ Route the call the appropriate Queue/Skill/Agent
 As the Agent answers the call, the GPE Customer Journey, Identity Stitching journey visualization may be selected and displayed.  The Agent may now see the Outcome Scores and any Segments matched along with current and historical interaction and journey information to address the customer’s call Intent “Complete a Purchase”
  
 
-### 3.VIP Care Scenario. 
+### VIP Care Scenario. 
 A known visitor arrives at the GSol GDemo website. The visitor navigates to Learning and selects “return a product”: 
 Genesys Predictive Engagement identifies the visitor as a Segment “Customer Care Needed” based upon the website behavior navigating to “return a product”. Go to 'Learning' section of the website. Click the 'Maintenance' tile. Expand the first Basics menu 'What is the return policy with Solar Panels'
 The Visitor calls the Business “GSol”.  When a Segment is matched prior to a call, the Segment may be correlated with a “Call Intent”.
