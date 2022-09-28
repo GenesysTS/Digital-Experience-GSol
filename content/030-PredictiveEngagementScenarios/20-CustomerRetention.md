@@ -3,6 +3,9 @@ title: "Customer Retention"
 chapter: true
 weight: 20
 ---
+
+## Customer Retention
+
 1. Login into PureCloudNow organization of Genesys DX
 2. Navigate to Admin > Predictive Engagement > Live Now 
 3. Login into Agent Workspace and make your agent Available 
