@@ -1,5 +1,5 @@
 ---
-title: "Adobe Analytics Integration"
+title: "Voice"
 chapter: true
 weight: 80
 ---
