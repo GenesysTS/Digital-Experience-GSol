@@ -7,8 +7,9 @@ weight: 10
 
 
 
-Overview
-GSol is still an early stage project and aims at helping business organizations engage at the right time with their online customers by:
+### Overview
+
+GSol aims at helping business organizations engage at the right time with their online customers by:
 
 Tracking customer journeys and observe behaviors to engage at the right time
 Reducing abandonment rate and optimize successful conversion
