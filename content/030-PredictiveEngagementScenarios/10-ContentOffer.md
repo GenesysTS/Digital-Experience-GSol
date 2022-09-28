@@ -5,7 +5,7 @@ weight: 10
 ---
 
 ## Content Offer (Tax Credit)
-1. Login into PureCloudNow organization of Genesys DX
+1. Login into [PureCloudNow organization of Genesys DX](https://login.mypurecloud.com/#/authenticate-adv/org/purecloudnow)
 2. Navigate to Admin > Predictive Engagement > Live Now
 3. Visit GSol web site and login 
 4. Go to "Residential" page and scroll down
