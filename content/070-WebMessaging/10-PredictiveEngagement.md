@@ -1,4 +1,10 @@
-### Predictive Engagement
+---
+title: "Predictive Engagement"
+chapter: true
+weight: 10
+---
+
+## Predictive Engagement
 "Predictive Engagement scenarios" section describes scenarious implemented on GSol web site. 
 All of them are supported with Web Messaging.
 
