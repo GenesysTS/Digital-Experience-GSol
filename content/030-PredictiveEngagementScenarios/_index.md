@@ -1,5 +1,5 @@
 ---
-title: "Predictive Engagement scenarios"
+title: "Predictive Engagement"
 chapter: true
 weight: 30
 ---
