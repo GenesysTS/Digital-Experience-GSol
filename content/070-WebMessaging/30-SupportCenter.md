@@ -1,7 +1,7 @@
 ---
 title: "Support Center"
 chapter: true
-weight: 30
+weight: 40
 ---
 
 ## Support Center
