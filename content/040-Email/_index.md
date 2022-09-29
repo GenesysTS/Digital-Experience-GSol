@@ -4,7 +4,7 @@ chapter: true
 weight: 40
 ---
 
-![Title](/images/Login.PNG)
+![Title](/images/email.PNG)
 
 There are two ways to send an email to GSol:
 
