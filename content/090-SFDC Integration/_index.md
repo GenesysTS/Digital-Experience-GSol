@@ -4,7 +4,7 @@ chapter: true
 weight: 90
 ---
 
-![Title](/images/Login.PNG)
+![Title](/images/sfdc.PNG)
 
 ### Setup
 1. Log in into Salesforce
