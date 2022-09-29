@@ -12,7 +12,7 @@ Web Messaging specific is listed below.
 
 ![One](/images/Botr.PNG)
 
-intent  - intent handled by Google Dialogflow using the approach below:
+### intent ###  - intent handled by Google Dialogflow using the approach below:
 
 ![Two](/images/gsol-dgt-de-2-gdf.png)
 
