@@ -66,7 +66,7 @@ The GSol bot is built on top of Google Dialog Flow and it configured with the fo
 
 ***I’ll be happy to get those replaced right away. I can schedule a pickup. What date works for you?***
 
-#### next tuesday
+##### next tuesday
 
 ***What time works for you?***
 
