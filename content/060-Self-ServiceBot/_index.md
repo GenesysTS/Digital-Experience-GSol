@@ -8,11 +8,7 @@ weight: 60
 
 ## Self-Service bot
 
-The GSol bot is built on top of Google Dialog Flow and it configured with the following intents
-
-Additional information related to the configuration of the Google Dialogflow bot can be found on this video.
-
-
+The GSol bot is built on top of Google Dialog Flow and it configured with the following intents:
 
 - Appointment
 - Refund
@@ -28,7 +24,7 @@ Additional information related to the configuration of the Google Dialogflow bot
 
 Sure, I will be glad to setup an appointment with one of our experts. What date works for you?
 
-Thursday
+#### Thursday
 
 and what time is best for you?
 
