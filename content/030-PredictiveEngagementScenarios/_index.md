@@ -12,6 +12,12 @@ Please clear browser's cache prior to the demonstrating any predictive engagemen
 
 ![One](/images/gsol-gpe-reset-altocloud.png)
 
+### Access Predictive Engagement with your Purecloud user credentials (PCN)
+
+Go to the admin section and you should be able to see the Predictive Engagement menu with the 'Live Now' item.
+
+![Two/images/live-now.png)
+
 #### GSol Predictive Engagement scenarios on Genesys DX platform:
 - Content Offer (Tax Credit)
 - Customer Retention
