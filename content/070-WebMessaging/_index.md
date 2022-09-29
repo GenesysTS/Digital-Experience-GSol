@@ -24,8 +24,10 @@ Click "Apply" button
 GSol uses [Database plugin](https://developer.genesys.cloud/commdigital/digital/webmessaging/messengersdk/SDKCommandsEvents) of Messenger JavaScript SDK to pass user data and login related information to the Architect's Inbound Message Flow.
 As a result the access to some operations is closed for the users who are not logged in into GSol web site.
    
-   #### User logged out                 
+   #### User logged out:                 
 
 ![One](/images/gsol-dgt-balance-logout.png)
+
+   #### User logged in:  
 
 ![One](/images/gsol-dgt-balance-login.png)
