@@ -19,6 +19,7 @@ To get access to the Support Center please use one of following methods:
 1. Press **"Magnifying glass"** icon
 2. The text specified in the web site's search field will be tranferred into **Support Center's** search field
 
+![One](/images/gsol-dgt-support-center-search.png)
 
 Once Support Center is opened, browse articles or search for the knowledge.
 
