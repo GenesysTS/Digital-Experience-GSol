@@ -22,15 +22,15 @@ The GSol bot is built on top of Google Dialog Flow and it configured with the fo
 
 ##### Hi, I would like to schedule an appointment
 
-Sure, I will be glad to setup an appointment with one of our experts. What date works for you?
+***Sure, I will be glad to setup an appointment with one of our experts. What date works for you?***
 
-#### Thursday
+##### Thursday
 
-and what time is best for you?
+***and what time is best for you?***
 
-noon
+##### noon
 
-Great! We've scheduled an appointment with one of our specialist Thursday at noon
+***Great! We've scheduled an appointment with one of our specialist Thursday at noon
 
 ### Shipping
 How can I help you?
