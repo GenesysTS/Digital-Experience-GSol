@@ -17,7 +17,7 @@ weight: 90
 2. Create a new Contact or Edit your existing Salesforce Contact from if not already. Make sure to enter your Predictive Engagement ID as the external contact ID from PCN
 3. Go to GSol application, in the contacts tab, select your contact and you should be able to visualize your Customer Journey
 
-![One](/images/Login.PNG)
+![One](/images/file_1604350219466_gsol-1.png)
 
 ### Lead Creation
 1. Customer navigates to the Utilities section select an item and add it to the cart. Change the quantity to ensure the cart value is higher than $2,000.
@@ -26,6 +26,6 @@ weight: 90
 4. Action map triggers an Architect flow to add the lead to the GSol Campaign in Salesforce
 5. The Lead is added to a GSol campaign with the details and description of what might be of interest for the prospect
 
-![One](/images/Login.PNG)
+![Two](/images/sfdc-lead-pc.png)
 
 When you are finished with this scenario, we recommend deleting your lead from Salesforce. If not deleted, only the description and details information will be updated.
