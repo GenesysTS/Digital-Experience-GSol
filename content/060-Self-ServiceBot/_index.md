@@ -18,6 +18,7 @@ The GSol bot is built on top of Google Dialog Flow and it configured with the fo
 
 
 ### Appointment
+
 ***How can I help you?***
 
 ##### Hi, I would like to schedule an appointment
@@ -32,45 +33,48 @@ The GSol bot is built on top of Google Dialog Flow and it configured with the fo
 
 ***Great! We've scheduled an appointment with one of our specialist Thursday at noon***
 
+
 ### Shipping
-How can I help you?
 
-How long to ship my product?
+***How can I help you?***
 
-Most products takes 3 days to ship our products in the US. Panels might take longer based on the volume.
+##### How long to ship my product?
 
-What else can I do for you?
+***Most products takes 3 days to ship our products in the US. Panels might take longer based on the volume.***
 
-I would like to talk with an agent
+***What else can I do for you?***
 
-Connecting you to one of our representatives. One moment please.
+#### I would like to talk with an agent
+
+***Connecting you to one of our representatives. One moment please.***
 
  
 
 ### Refund
-How can I help you?
 
-I would like a refund / I just received the wrong solar panel
+***How can I help you?***
 
-What was the product did you order?
+#### I would like a refund / I just received the wrong solar panel
 
-a Solar panel (optional)
+***What was the product did you order?***
 
-I'm sorry to hear that. What is the model of the Solar panel you ordered?
+#### a Solar panel (optional)
 
-A canadian Solar Panel
+***I'm sorry to hear that. What is the model of the Solar panel you ordered?***
 
-I’ll be happy to get those replaced right away. I can schedule a pickup. What date works for you?
+#### A canadian Solar Panel
 
-next tuesday
+***I’ll be happy to get those replaced right away. I can schedule a pickup. What date works for you?***
 
-What time works for you?
+#### next tuesday
 
-around noon
+***What time works for you?***
 
-We've scheduled a pickup of your Canadian solar panels next tuesday noon
+#### around noon
 
-What else can I do for you?
+***We've scheduled a pickup of your Canadian solar panels next tuesday noon***
+
+***What else can I do for you?***
 
 ### Churn Risk
 Hi Arnaud, how can I help today?
