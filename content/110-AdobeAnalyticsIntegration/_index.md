@@ -4,7 +4,7 @@ chapter: true
 weight: 110
 ---
 
-![Title](/images/Login.PNG)
+![Title](/images/adobe.PNG)
 
 In order to access Adobe Analytics, go to the following url: https://experience.adobe.com/login
 
