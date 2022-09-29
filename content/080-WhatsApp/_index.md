@@ -6,7 +6,7 @@ weight: 80
 
 ![Title](/images/Login.PNG)
 
-GSol bot can join a WhatsApp conversation at  +1 (317) 210-8599 if the very first message of the conversation is “Hi GSol” (case insensitive).
+GSol bot can join a WhatsApp conversation at  **+1 (317) 210-8599** if the very first message of the conversation is **“Hi GSol”** (case insensitive).
 
 The bot can answer questions:
 
