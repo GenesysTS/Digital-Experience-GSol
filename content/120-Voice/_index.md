@@ -4,7 +4,7 @@ chapter: true
 weight: 120
 ---
 
-![Title](/images/Login.PNG)
+![Title](/images/voice.PNG)
 
 You can reach GSol Customer Service with this number: **(+1) 866-288-8546**
  
