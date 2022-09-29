@@ -4,9 +4,8 @@ chapter: true
 weight: 60
 ---
 
-![Title](/images/Login.PNG)
+![Title](/images/Bot.PNG)
 
-## Self-Service bot
 
 The GSol bot is built on top of Google Dialog Flow and it configured with the following intents:
 
