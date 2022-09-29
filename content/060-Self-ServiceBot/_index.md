@@ -22,7 +22,7 @@ Additional information related to the configuration of the Google Dialogflow bot
 
 
 ### Appointment
-How can I help you?
+***How can I help you?***
 
 ##### Hi, I would like to schedule an appointment
 
