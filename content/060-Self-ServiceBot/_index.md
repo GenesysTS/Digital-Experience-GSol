@@ -24,7 +24,7 @@ Additional information related to the configuration of the Google Dialogflow bot
 ### Appointment
 How can I help you?
 
-Hi, I would like to schedule an appointment
+##### Hi, I would like to schedule an appointment
 
 Sure, I will be glad to setup an appointment with one of our experts. What date works for you?
 
