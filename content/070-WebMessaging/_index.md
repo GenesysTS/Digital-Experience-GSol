@@ -11,11 +11,12 @@ Genesys Cloud web messaging provides customers with an enhanced experience when 
 
 ### Setup
 
-My Account" menu
-Choose "Web Messenger" in the "Widget Type" combobox
-Click "Apply" button
+"My Account" menu
 
-![One](/images/Login.PNG)
+- Choose **"Web Messenger"** in the **"Widget Type"** combobox
+- Click **"Apply"** button
+
+![One](/images/file_1644963022875_gc-web-messenger.png)
 
 > Notes: The activation of the Web Messaging will be remebered and stay active till the moment when browser's data are cleared.
 
