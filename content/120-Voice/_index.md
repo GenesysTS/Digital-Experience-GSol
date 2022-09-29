@@ -6,7 +6,7 @@ weight: 120
 
 ![Title](/images/Login.PNG)
 
-You can reach GSol Customer Service with this number: (+1) 866-288-8546
+You can reach GSol Customer Service with this number: **(+1) 866-288-8546
  
 Depending on your customer profile, you will be offered a personalized service on the phone. To illustrate this personalization, we created 3 segments 'High Value Shopper', 'Customer Care Needed', and 'Customer' and we are using Genesys Predictive Engagement to update the customer segment based on the customer web activities in this demo.
  
