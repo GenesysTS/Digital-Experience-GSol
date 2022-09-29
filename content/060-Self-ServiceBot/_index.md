@@ -44,7 +44,7 @@ The GSol bot is built on top of Google Dialog Flow and it configured with the fo
 
 ***What else can I do for you?***
 
-#### I would like to talk with an agent
+##### I would like to talk with an agent
 
 ***Connecting you to one of our representatives. One moment please.***
 
@@ -54,15 +54,15 @@ The GSol bot is built on top of Google Dialog Flow and it configured with the fo
 
 ***How can I help you?***
 
-#### I would like a refund / I just received the wrong solar panel
+##### I would like a refund / I just received the wrong solar panel
 
 ***What was the product did you order?***
 
-#### a Solar panel (optional)
+##### a Solar panel (optional)
 
 ***I'm sorry to hear that. What is the model of the Solar panel you ordered?***
 
-#### A canadian Solar Panel
+##### A canadian Solar Panel
 
 ***I’ll be happy to get those replaced right away. I can schedule a pickup. What date works for you?***
 
@@ -70,26 +70,29 @@ The GSol bot is built on top of Google Dialog Flow and it configured with the fo
 
 ***What time works for you?***
 
-#### around noon
+##### around noon
 
 ***We've scheduled a pickup of your Canadian solar panels next tuesday noon***
 
 ***What else can I do for you?***
 
+
 ### Churn Risk
-Hi Arnaud, how can I help today?
 
-I want to disconnect my service
+***Hi Arnaud, how can I help today?***
 
-Certainly, let me gather a bit of information and then I’ll connect you with a representative. Why do you need to cancel the subscription?
+##### I want to disconnect my service
 
-I'm moving out
+***Certainly, let me gather a bit of information and then I’ll connect you with a representative. Why do you need to cancel the subscription?***
 
-I am so sorry to hear that. Connecting you to a member of our management team..
+##### I'm moving out
+
+***I am so sorry to hear that. Connecting you to a member of our management team.***
 
  
 
 ### To transfer to an agent / Representative
-I would like to talk with an agent
 
-Connecting you to one of our representatives. One moment please.
+##### I would like to talk with an agent
+
+***Connecting you to one of our representatives. One moment please.***
