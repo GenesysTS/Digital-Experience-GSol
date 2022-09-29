@@ -18,11 +18,12 @@ You can also reset the customer segment using the link in the footer 'Reset Cust
 
 ### Sales Support Scenario. 
 A known visitor arrives at the GSol GDemo website. The visitor places item(s) in a shopping cart: 
-Genesys Predictive Engagement identifies the visitor as a Segment “High-Value Shopper” based upon the shopping cart dollar amount value or based upon the specific items placed into the cart. Select the Renogy Solar Panel item (+$500)
-The Visitor calls the Business “GSol”.  When a Segment is matched prior to a call, the Segment may be correlated with a “Call Intent”.
-An inbound call Architect Flow recognizes the visitor and the matched “High-Value Shopper Segment” and plays an audible IVR prompt “Hello xxx. Are you calling about the items in your shopping cart today? Say ‘yes’ or press 1 to be routed to a Sales Specialist. 
-Route the call the appropriate Queue/Skill/Agent
-As the Agent answers the call, the GPE Customer Journey, Identity Stitching journey visualization may be selected and displayed.  The Agent may now see the Outcome Scores and any Segments matched along with current and historical interaction and journey information to address the customer’s call Intent “Complete a Purchase”
+
+- Genesys Predictive Engagement identifies the visitor as a Segment “High-Value Shopper” based upon the shopping cart dollar amount value or based upon the specific items placed into the cart. Select the Renogy Solar Panel item (+$500)
+- The Visitor calls the Business “GSol”.  When a Segment is matched prior to a call, the Segment may be correlated with a “Call Intent”.
+- An inbound call Architect Flow recognizes the visitor and the matched “High-Value Shopper Segment” and plays an audible IVR prompt “Hello xxx. Are you calling about the items in your shopping cart today? Say ‘yes’ or press 1 to be routed to a Sales Specialist. 
+- Route the call the appropriate Queue/Skill/Agent
+- As the Agent answers the call, the GPE Customer Journey, Identity Stitching journey visualization may be selected and displayed.  The Agent may now see the Outcome Scores and any Segments matched along with current and historical interaction and journey information to address the customer’s call Intent “Complete a Purchase”
  
 
 ### VIP Care Scenario. 
