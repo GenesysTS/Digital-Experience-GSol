@@ -7,9 +7,8 @@ weight: 110
 ![Title](/images/Login.PNG)
 
 In order to access Adobe Analytics, go to the following url: https://experience.adobe.com/login
+
 Sign In with the following credentials:
-
-
 
 - User: gts@genesys.com
 
