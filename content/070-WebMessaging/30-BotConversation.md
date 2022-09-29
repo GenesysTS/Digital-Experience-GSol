@@ -12,7 +12,7 @@ Web Messaging specific is listed below.
 
 ![One](/images/Botr.PNG)
 
-### intent ###  - intent handled by Google Dialogflow using the approach below:
+**Intent**- intent handled by Google Dialogflow using the approach below:
 
 ![Two](/images/gsol-dgt-de-2-gdf.png)
 
@@ -20,5 +20,5 @@ The reason for using several bots could be:
 
 1. Migration from Google Dialogflow to Genesys Dialog Engine 
 2. Bots orchestration (diffrent bots do better different things)
-3. 
+
 Having Dialog Engine in front makes sure that all customer's queries are captured and used in the Optimizer and Intent Miner
