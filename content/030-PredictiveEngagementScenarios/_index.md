@@ -16,7 +16,7 @@ Please clear browser's cache prior to the demonstrating any predictive engagemen
 
 Go to the admin section and you should be able to see the Predictive Engagement menu with the 'Live Now' item.
 
-![Two/images/live-now.png)
+![Two](/images/live-now.png)
 
 #### GSol Predictive Engagement scenarios on Genesys DX platform:
 - Content Offer (Tax Credit)
