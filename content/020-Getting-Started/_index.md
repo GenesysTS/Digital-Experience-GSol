@@ -23,4 +23,4 @@ To perform GSol - DIGITAL demonstration you would need to use custom Web Messeng
 4. enter **2f2c9835-a028-4bae-858d-a623648b7841** in the **"Specify Web Messenger Deployment Key"** field
 4. click on   **Apply**   button
 
-![One](/images/gsol-gpe-reset-altocloud.png)
+![One](/images/gsol-dgt-deployment-key.png)
