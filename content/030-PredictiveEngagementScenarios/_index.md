@@ -4,7 +4,7 @@ chapter: true
 weight: 30
 ---
 
-![Title](/images/Login.PNG)
+![Title](/images/PrEng.PNG)
 
 ### Predictive Engagement demo preparation
 
@@ -18,7 +18,7 @@ Go to the admin section and you should be able to see the Predictive Engagement 
 
 ![Two](/images/live-now.png)
 
-#### GSol Predictive Engagement scenarios on Genesys DX platform:
+### GSol Predictive Engagement scenarios on Genesys DX platform:
 - Content Offer (Tax Credit)
 - Customer Retention
 - Reduce Abandoment Rate
