@@ -1,14 +1,16 @@
 name: Build and Deploy to Azure
 
-on:
+on: 
   push:
     branches:
       - main  # Set a branch to deploy
   pull_request:
-
+  workflow_dispatch:
 jobs:
+  template:
+    uses: GenesysTS/GTS-Reusable-Github-Actions/.github/workflows/transform-hugo-template-to-gdemo.yml@main
   deploy:
-    if: github.repository_owner == 'genesys-samples'
+    if: github.repository_owner == 'GenesysTS'
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
@@ -36,5 +38,5 @@ jobs:
         uses: azure/CLI@v1
         with:
           inlineScript: |
-            az storage blob delete-batch --account-name 'genesyssamples' --source '$web' --pattern 'workshops/${{ github.event.repository.name }}/*'
-            az storage blob upload-batch --account-name 'genesyssamples' --source ./public --destination '$web/workshops/${{ github.event.repository.name }}'
+            az storage blob delete-batch --account-name 'genesyssamples' --source '$web' --pattern 'workshops-gdemo/${{ github.event.repository.name }}/*'
+            az storage blob upload-batch --account-name 'genesyssamples' --source ./public --destination '$web/workshops-gdemo/${{ github.event.repository.name }}'
