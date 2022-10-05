@@ -1,7 +1,7 @@
 ---
 title: "Customer Retention"
 chapter: true
-weight: 20
+weight: 30
 ---
 
 ## Customer Retention
