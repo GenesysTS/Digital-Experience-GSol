@@ -1,7 +1,7 @@
 ---
 title: "Reduce Abandoment"
 chapter: true
-weight: 30
+weight: 40
 ---
 
 ## Reduce Abandoment
