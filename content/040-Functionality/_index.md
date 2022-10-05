@@ -4,5 +4,5 @@ chapter: true
 weight: 40
 ---
 
-![Title](/images/email.PNG)
+![Title](/images/Functionality.PNG)
 
