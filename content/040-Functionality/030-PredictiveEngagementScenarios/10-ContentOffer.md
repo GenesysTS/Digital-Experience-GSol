@@ -1,7 +1,7 @@
 ---
 title: "Content Offer"
 chapter: true
-weight: 10
+weight: 20
 ---
 
 ## Content Offer (Tax Credit)
