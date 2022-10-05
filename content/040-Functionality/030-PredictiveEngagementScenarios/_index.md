@@ -1,7 +1,7 @@
 ---
 title: "Predictive Engagement"
 chapter: true
-weight: 30
+weight: 10
 ---
 
 ![Title](/images/PrEng.PNG)
