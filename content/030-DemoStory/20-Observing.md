@@ -24,7 +24,7 @@ Result: Presented article contains an image.
 John browses **Support Center** moving through **Home>Products>Solar Panels** categories.
 ***Am I eligible for solar tax credit?*** article promises more savings related information on the **Residential** page of the GSol website. John is curious and decides to close **Support Center** and visit that page.
 
-![support](/images/Suppport.PNG)
+![support](/images/SS.PNG)
 
 
 
@@ -48,4 +48,4 @@ At the end of the **Tax Credit** page John presses ***Schedule and appointment w
 
 **Result:** Messenger is opened.
 
-
+![pe](/images/PE.PNG)
