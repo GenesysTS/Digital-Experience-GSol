@@ -20,5 +20,6 @@ Result: A solar panel calculator starts.
 
 
 ![two](/images/Calculator.jpg)
+
 ![three](/images/kWh.jpg)
 ![four](/images/Numbers.jpg)
