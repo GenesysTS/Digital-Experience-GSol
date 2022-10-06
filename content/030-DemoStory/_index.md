@@ -9,7 +9,7 @@ weight: 30
 ### Setup
 
 - Clear cache of your browser
-- Login into [PureCloudNow organization](https://login.mypurecloud.com/#/authenticate-adv/org/purecloudnow) of Genesys Cloud
+- Login into **[PureCloudNow organization](https://login.mypurecloud.com/#/authenticate-adv/org/purecloudnow)** of Genesys Cloud
 - Login into [Maverick Desktop](https://apps.mypurecloud.com/digital-desktop/#/work)
 - Visit [GSol website](https://gsolgc.demo.genesys.com/)
 - Select "Reset Altocloud" at the bottom-right corner of the web site
