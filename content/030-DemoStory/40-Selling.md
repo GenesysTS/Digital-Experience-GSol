@@ -1,10 +1,10 @@
 ---
-title: "Selliong/Onboarding"
+title: "Selling/Onboarding"
 chapter: true
-weight: 10
+weight: 40
 ---
 
-## Selliong/Onboarding
+## Selling/Onboarding
 
 John is impressed with the level of service from GSol and has got all his questions answered. In conversation with the agent John expressed his desire to become a GSol customer. John and the agent agreed on roof survey date.
 
