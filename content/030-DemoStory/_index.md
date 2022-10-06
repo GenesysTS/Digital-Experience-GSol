@@ -8,8 +8,8 @@ weight: 30
 
 ### Setup
 
-- Clear cashe of your browser
-- Login ionto PureCloudNow organizatiuon of Genesys Cloud
+- Clear cache of your browser
+- Login into PureCloudNow organization of Genesys Cloud
 - Login into Maverick Desktop
 - Visit GSol website
 - Select "Reset Altocloud" at the bottom-right corner of the web site
