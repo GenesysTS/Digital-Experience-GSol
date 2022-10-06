@@ -33,3 +33,12 @@ John would need 27 panels to offset his power consumption.
 John decides to accept the chat offer.
 
 **Result:** John is connected with an agent skilled in solar panels subject area.
+
+John chats with an agent
+
+**Result:** Agent Desktop gives an agent 360 view of the customer (history of the previous conversations, history of the conversation with the bot, script, canned responses, journey)
+
+John asks various questions.
+
+**Result:** Agent Assist provides suggestions.
+
