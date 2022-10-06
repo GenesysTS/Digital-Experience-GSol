@@ -21,5 +21,5 @@ Result: Presented article contains an image.
 John browses **Support Center** moving through Home>Products>Solar Panels categories.
 Am I eligible for solar tax credit? Article promises more savings related information on the Residential page of the GSol website. John is curious and decides to close Support Center and visit that page.
 
-![save](/images/save2.PNG)
+![support](/images/Suppport.PNG)
 
