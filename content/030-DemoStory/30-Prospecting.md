@@ -28,7 +28,7 @@ John would need 27 panels to offset his power consumption.
 
 **Result:** The bot decides to offer a chat with an agent.
 
-![five](/images/bot.jpg)
+![five](/images/Bot.jpg)
 
 John decides to accept the chat offer.
 
