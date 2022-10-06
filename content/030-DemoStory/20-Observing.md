@@ -26,3 +26,26 @@ John browses **Support Center** moving through **Home>Products>Solar Panels** ca
 
 ![support](/images/Suppport.PNG)
 
+
+
+
+
+John reads through **Residential** page of the GSol website and decides to complete Savings Estimate form:
+-	Contact Information- ***Home Owner*** radio button – ***Next*** button
+-	House Information – ***Next*** button
+
+John scrolls Savings Estimate screen of the form up and down feeling that the information provided is not sufficient. John selects **Contact Us** page.
+
+**Result:** Genesys Predictive Engagement (GPE) pushes a Content Offer
+
+![check](/images/dx_gsol_gpe_tax_credit_offer.png)
+
+John accepts the offer by pressing **Check it Out** button
+
+**Result:** John is moved to **Tax Credit** page
+
+At the end of the **Tax Credit** page John presses ***Schedule and appointment with our team*** link
+
+**Result:** Messenger is opened.
+
+
