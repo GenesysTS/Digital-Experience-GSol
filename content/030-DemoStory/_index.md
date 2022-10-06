@@ -16,4 +16,4 @@ weight: 30
 
  ![Reset](/images/gsol-gpe-reset-altocloud.png)
 
-- Login into GSol web site and logout to activate routing to your agent]
+- Login into GSol web site and logout to activate routing to your agent.
