@@ -18,3 +18,9 @@ John visits GSol web site, logs in, starts the Messenger and rescheduled appoint
 ![four](/images/app4.jpg)
 
 **Result:** An SMS with the appointment details is sent. John phone number is added to agentless notification campaign.
+
+### Post Appointment activity
+
+Survey has occurred and confirmed that the roof of John’s house can bear the weight of the panels. And agent sends to John outbound email with a contract to sign.
+
+**Result**: Outbound email is delivered to John.
