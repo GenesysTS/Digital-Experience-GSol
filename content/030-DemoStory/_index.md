@@ -19,4 +19,4 @@ weight: 30
 - Login into GSol web site and logout to activate routing to your agent.
 
 
-<font color="red">This text is red!</font>
+<p style="color:blue">Make this text blue.</p>
