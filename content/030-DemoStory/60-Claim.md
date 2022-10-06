@@ -8,7 +8,7 @@ weight: 60
 
 A hell storm has damaged 5 solar panels. John calls GSol phone number **+1(866) 288-8546**
 
-> NOTE: You can call phones, press **6** and press **5** when prompts are played.
+> NOTE: You can call phones mentioned here, press **6** and press **5** when prompts are played.
 
 **Result:** Voice bot greats John.
 
