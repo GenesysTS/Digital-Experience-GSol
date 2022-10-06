@@ -11,3 +11,5 @@ John has heard many time that **GSol** is leading solar supplier and installer a
 
 
 ![save](/images/Roof.PNG)
+
+{{< colour "#ff0000" >}}.
