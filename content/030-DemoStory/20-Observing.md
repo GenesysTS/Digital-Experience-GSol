@@ -16,7 +16,7 @@ John decided to add more details to his query and started to type ***of solar***
 
 John selected ***What are benefits of solar panels.***
 
-Result: There is a video clip embedded into the article.
+**Result:** There is a video clip embedded into the article.
 
 John asks ***Do solar panels need a lot of maintenance?***
 Result: Presented article contains an image.
