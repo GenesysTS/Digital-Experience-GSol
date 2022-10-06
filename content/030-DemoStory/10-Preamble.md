@@ -10,4 +10,4 @@ The name of the main character is **John**. The energy crisis is unfolding and p
 John has heard many time that **GSol** is leading solar supplier and installer and decided to visit **GSol** website to find out more.
 
 
-![save](/images/save2.PNG)
+![save](/images/Roof.PNG)
