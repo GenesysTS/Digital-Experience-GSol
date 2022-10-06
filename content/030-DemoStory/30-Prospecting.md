@@ -23,3 +23,8 @@ Result: A solar panel calculator starts.
 
 ![three](/images/kWh.jpg)
 ![four](/images/Numbers.jpg)
+
+John would need 27 panels to offset his power consumption.
+Result: The bot decides to offer a chat with an agent.
+John decides to accept the chat offer.
+Result: John is connected with an agent skilled in solar panels subject area.
