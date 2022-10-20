@@ -1,14 +1,14 @@
 ---
 title: "AI Experience Story"
 chapter: true
-weight: 30
+weight: 1
 ---
 
-![Title](/images/Introduction.PNG)
+## Genesys AI Experience 
 
-## Genesys CX AI Experience for GSol
+### Our GSol Story
 
-This workshop will present two scenarios deployed by GSol company.
+This section will present story boards helping to articulate the benefits of the Genesys AI Experience deployed by GSol company.
 
 ### Scenarios
 

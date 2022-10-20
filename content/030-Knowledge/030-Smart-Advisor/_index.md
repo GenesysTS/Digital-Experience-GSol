@@ -1,7 +1,7 @@
 ---
-title: "Knowledge Management"
+title: "Smart Advisor"
 chapter: true
-weight: 70
+weight: 30
 ---
 
 <style>
@@ -66,41 +66,6 @@ Genesys Cloud offers a powerful way to manage knowledge across multiple touchpoi
 - Smart Advisor
 
 
-## Support Center
-
-There are 2 ways to expose the Support Center on GSol website.
-#### Method 1
-
-1. Hover your mouse cursor over **Messenger** icon   (1)  
-2. Click on the appearing icon with a question mark  (2)  .
-
-#### Method 2
-
-1. Press **"Magnifying glass"** icon
-2. The text specified in the web site's search field will be tranferred into **Support Center's** search field.
-
-![One](/images/gsol-dgt-support-center-search.png)
-
-Once Support Center is opened, browse articles or search for the knowledge.
-
-## Bot knowledge
-
-<div class="row">
-  <div class="col">
-
-If the bot intent has not match, the bot performs a search in the GSol Knowledge base and expose the information to the online visitor.
-
-<br>
-
-Any unanswered questions will be available in Knowledge Optimizer to improve the self-service containment rate.
-
-</div>
-<div class="col">
-  
-![bot-knowledge](/images/dx_gsol_knowledge_bot.png)
-
-</div>
-</div>
 
 ## Smart Advisor
 
@@ -133,6 +98,7 @@ At this time, Smart Advisor is only available to the Digital Desktop
 You will be able to see suggestions of relevant articles in real-time to the agent.
 
 ![smart-advisor-1](/images/gsol-smart-advisor-3.png)
+
 ## Available articles
 
 - Am I eligible for solar tax credit?

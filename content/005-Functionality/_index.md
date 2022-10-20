@@ -1,7 +1,7 @@
 ---
-title: "How-to instructions"
+title: "How-to"
 chapter: true
-weight: 40
+weight: 05
 ---
 
 ![Title](/images/Introduction.PNG)
@@ -9,7 +9,7 @@ weight: 40
 
 ## How-to guides
 
-This section is helping you walk through the demo with step by step instruction to demo a specific feature.
+The following sections are helping you to walk through step by step instruction to demo a specific feature and become more familiar with what is available.
 
 ### Setup
 
