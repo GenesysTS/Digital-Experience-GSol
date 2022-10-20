@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Predictive Engagement on Genesys Workshops: Your_Workshop_Name</title>
+    <link>/040-functionality/020-predictive-engagement.html</link>
+    <description>Recent content in Predictive Engagement on Genesys Workshops: Your_Workshop_Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/040-functionality/020-predictive-engagement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tax Credit Offer</title>
+      <link>/040-functionality/020-predictive-engagement/10-content-offer.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/020-predictive-engagement/10-content-offer.html</guid>
+      <description>Tax Credit Offer (Content Offer) Genesys Predictive Engagement can display content offers on your website to nudge online visitors at the right moment in time and expose them proper Call To Action. In our specific scenario, we display a content offer to online visitors when abandoning the form to get quotes for installing a Solar system.
+What is a Genesys Content Offer? GSol Tax Credit offer is being defined in the Predictive Engagement Action Library as a Genesys content offer described below.</description>
+    </item>
+    
+    <item>
+      <title>Customer Retention</title>
+      <link>/040-functionality/020-predictive-engagement/20-customer-retention.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/020-predictive-engagement/20-customer-retention.html</guid>
+      <description>Customer Retention Scenario Login into PureCloudNow organization of Genesys DX Navigate to Admin &amp;gt; Predictive Engagement &amp;gt; Live Now Login into Agent Workspace and make your agent Available Visit GSol website Make sure to click &amp;ldquo;Reset Altocloud&amp;rdquo; link at the bottom of the page to trigger a proactive chat Login into GSol web site Customer is looking for more information on deleting their account. Customer navigates to the Learning page and click on the Accounts tile.</description>
+    </item>
+    
+    <item>
+      <title>Cart Abandonment</title>
+      <link>/040-functionality/020-predictive-engagement/30-cart-abandonment.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/020-predictive-engagement/30-cart-abandonment.html</guid>
+      <description>Cart Abandonment Scenario Login on the website with your GDemo credentials ahead of the demo to identify the right Genesys Cloud agent for routing purpose.
+Login into PureCloudNow organization of Genesys Cloud (PCN) Navigate to Admin &amp;gt; Predictive Engagement &amp;gt; Live Now Login into Agent Workspace and make your agent Available Visit GSo l web site Make sure to click &amp;ldquo;Reset Altocloud&amp;rdquo; link at the bottom of the page to trigger a proactive chat Login into GSol web site Go to &amp;ldquo;Utilities&amp;rdquo; .</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,211 @@
+[
+{
+	"uri": "/",
+	"title": "GSol",
+	"tags": [],
+	"description": "",
+	"content": "Welcome In this workshop, you will learn how use GSol application to demo various scenarios with with PureCloudNow.\nPrerequisites Genesys Cloud CX Dev Lab Setup Learning Objectives Set up GSol for PureCloudNow Run demo "
+},
+{
+	"uri": "/010-introduction.html",
+	"title": "Introduction",
+	"tags": [],
+	"description": "",
+	"content": "\nOverview GSol aims at helping business organizations engage at the right time with their online customers by:\nTracking customer journeys and observe behaviors to engage at the right time Reducing abandonment rate and optimize successful conversion Increasing revenue by offering targeted discounts Deflecting customers with online FAQ and chatbots The following scenarios showcase the benefits of the prospect conversion across the different customer lifecycle as follow:\nGoals\tCustomer Lifecycle\tScenario Capture Lead Information\tLead Generation\tA prospect is using GSol savings calculator to understand the ROI for such Solar investment. Genesys Prospection Center captures lead information directly from the website (address, estimated cost, 30yr value) and engage with high value leads in real-time.\nIncrease shopping cart value\tOnline Sales\tA prospect wants to install his own solar roof and explores our GSol Solar Panels inventory. After finding what he’s looking for, the prospect adds 8 panels ($1,799.99) into its cart and keep exploring the online shop before receiving a promocode from the Genesys Prospection Center. The Gold prospect (high value cart) is now eligible for a $100 discount with a minimum purchase of $2000. Our prospect is satisfied with this upsell opportunities because now he gets the battery to power his Solar roof with a significant discount and GSol converted the sales.\nReduce Abandonment rate\tCustomer Care\tOur customer receives GSol monthly newsletter and is informed about our latest FAQ. The FAQ redirects GSol customer to review the online maintenance guide to get the best efficiency of their Solar roof with information to take care of their batteries. The customer didn’t take good care of his battery so he is considering buying a new one to get a better solar efficiency but he abandons the online order before checkout. Genesys Prospection Center identifies the missed opportunity and offers a proactive chat to support the customer with a sales specialist and secure the deal.\n"
+},
+{
+	"uri": "/030-demostory/10-preamble.html",
+	"title": "Preamble",
+	"tags": [],
+	"description": "",
+	"content": "Preamble The name of the main character is John. The energy crisis is unfolding and pushing electricity prices to new heights. Trying to mitigate the impact of the crisis on the family, John is looking at various options and the installation of solar panels is most promising one. John has heard many time that GSol is leading solar supplier and installer and decided to visit GSol website to find out more.\n"
+},
+{
+	"uri": "/040-functionality/010-web-messaging/10-predictiveengagement.html",
+	"title": "Predictive Engagement",
+	"tags": [],
+	"description": "",
+	"content": "Predictive Engagement \u0026ldquo;Predictive Engagement\u0026rdquo; section describes scenarious implemented on GSol web site. All of them are supported with Web Messaging.\nWeb Chat and Web Messaging Proactive Engagement chat offers look differently.\nBelow is the example Web Messaging Proactive Engagement chat offer for \u0026ldquo;Reduce Abandoment Rate\u0026rdquo; scenario. See \u0026ldquo;Predictive Engagement scenarios\u0026rdquo; for the scenario\u0026rsquo;s details.\nNotes: \u0026ldquo;Reset Altocloud\u0026rdquo; at the bottom of the web site prior to every demonstration.\n"
+},
+{
+	"uri": "/040-functionality/020-predictive-engagement.html",
+	"title": "Predictive Engagement",
+	"tags": [],
+	"description": "",
+	"content": "\nPredictive Engagement demo preparation Please clear browser\u0026rsquo;s cache prior to the demonstrating any predictive engagement scenario and \u0026ldquo;Reset Altocloud\u0026rdquo; in the footer of GSol web site.\nAccess Predictive Engagement with your Purecloud user credentials (PCN) Genesys Predictive Engagement exposes the list of all web visitors currently on your website in the Live Now section. Make sure to identify your web session when running a demo to make sure you clean previous activities.\nLogin into PureCloudNow organization of Genesys DX Navigate to Admin \u0026gt; Predictive Engagement \u0026gt; Live Now section GSol Predictive Engagement scenarios on Genesys Cloud (PCN) Tax Credit Offer (Content Offer) Customer Retention Reduce Abandoment Rate "
+},
+{
+	"uri": "/040-functionality/020-predictive-engagement/10-content-offer.html",
+	"title": "Tax Credit Offer",
+	"tags": [],
+	"description": "",
+	"content": "Tax Credit Offer (Content Offer) Genesys Predictive Engagement can display content offers on your website to nudge online visitors at the right moment in time and expose them proper Call To Action. In our specific scenario, we display a content offer to online visitors when abandoning the form to get quotes for installing a Solar system.\nWhat is a Genesys Content Offer? GSol Tax Credit offer is being defined in the Predictive Engagement Action Library as a Genesys content offer described below. Website Administrators can define the content and the style of the content offer to fit your website design principles.\nIn our GSol Tax Credit scenario, this content offer is being displayed to online visitors when matching the \u0026lsquo;Abandon Residential Quotes\u0026rsquo; segment. Administrators can modify the engagement rules from the Genesys Cloud and expose the content offer immediately, after a specific delay or at the next visit to the visitor.\nGSol Tax Credit Offer scenario Login on the website with your GDemo credentials ahead of the demo to identify the right Genesys Cloud agent for routing purpose.\nVisit GSol website Go to \u0026ldquo;Residential\u0026rdquo; page and scroll down Fill up all \u0026ldquo;Contact Information\u0026rdquo; section of the form (similar to GDemo Customer Record) Select Yes to the question \u0026ldquo;Are you homeowner?\u0026rdquo; Click Next Fill up all \u0026ldquo;House Information\u0026rdquo; section of the form Enter a zip code and select a value for your monhtly energy bill Click Next Abandon \u0026ldquo;Savings Estimate\u0026rdquo; section of the form DO NOT click Interested button Abandon the form and Click on the GSol icon and redirect to the homepage of GSol Wait for few seconds and the Tax Credit offer will be displayed as a modal\nClick on the Check it out! Call To Action (CTA) button You will be redirected to the \u0026ldquo;Tax Credit Advisor\u0026rdquo; page with the additional information "
+},
+{
+	"uri": "/030-demostory/20-observing.html",
+	"title": "Monitoring-Observing???",
+	"tags": [],
+	"description": "",
+	"content": "Monitoring-Observing??? John enters What are benefits into a search field.\nResult: Support Center is opened, and search field is prepopulated.\nJohn decided to add more details to his query and started to type of solar at the of the search field.\nResult: Support Center auto-suggests several articles.\nJohn selected What are benefits of solar panels.\nResult: There is a video clip embedded into the article.\nJohn asks Do solar panels need a lot of maintenance? Result: Presented article contains an image.\nJohn browses Support Center moving through Home\u0026gt;Products\u0026gt;Solar Panels categories. Am I eligible for solar tax credit? article promises more savings related information on the Residential page of the GSol website. John is curious and decides to close Support Center and visit that page.\nJohn reads through Residential page of the GSol website and decides to complete Savings Estimate form:\nContact Information- Home Owner radio button – Next button House Information – Next button John scrolls Savings Estimate screen of the form up and down feeling that the information provided is not sufficient. John selects Contact Us page.\nResult: Genesys Predictive Engagement (GPE) pushes a Content Offer\nJohn accepts the offer by pressing Check it Out button\nResult: John is moved to Tax Credit page\nAt the end of the Tax Credit page John presses Schedule and appointment with our team link\nResult: Messenger is opened.\n"
+},
+{
+	"uri": "/040-functionality/010-web-messaging/20-richmedia.html",
+	"title": "Rich Media",
+	"tags": [],
+	"description": "",
+	"content": " Rich Media Cards - Intent switching Quick Replies - Intent Switching Quick Replies - Slot filling Quick Replies - Dynamic Slot Bot conversation flowchart LR id1(\"Sample Phrases\") --\u003e id2{\"Intent\"} --\u003e id3[\"Answer / Action\"] Schedule an appointment The bot can schedule an appointment with a tax specialist / advisor.\nflowchart LR id1[\"Quick reply - Appointment\"] --\u003e idA A(\"I would like to book an appointment\") --\u003e id2[\"Utterances\"] A1(\"I need to book an appointment\") --\u003e id2 id2 --\u003e idA{\"Appointment Intent\"} --\u003e id3[\"Actions\"] id3 --\u003e id4[\"Confirmation message\"] id3 --\u003e id5[\"Confirmation SMS\"] id3 --\u003e id6[\"Proactive notification\"] Dates and Times are generated for every appointment.\nCheck your balance The bot can remind you of your balance if you are an authenticated user.\nflowchart LR A(\"I want to know my balance\") --\u003e id2[\"Utterances\"] A1(\"What is my balance?\") --\u003e id2 A2(\"Can you send me my balnce by SMS please?\") --\u003e id2 id2 --\u003e idA{\"Balance Intent\"} --\u003e id3[\"Actions\"] id3 --\u003e id4[\"Your outstanding balance is ...\"] Churn Intent The bot can provide support and attention to customers at risk of churning.\nflowchart LR A(\"I want to close my account because I want to switch provider\") --\u003e id2[\"Utterances\"] A1(\"I want to close my account because of the move ?\") --\u003e id2 A2(\"I want to close my account\") --\u003e id2 A3(\"I would like to cancel my subscription\") --\u003e id2 A4(\"I want to disconnect my service\") --\u003e id2 id2 --\u003e idA{\"Churn Intent\"} --\u003e id3[\"Actions\"] id3 --\u003e id4[\"The bot asks for the account closure reason\"] id3 --\u003e id41[\"Escalation to an agent\"] Churn Intent flowchart LR A(\"I want to close my account because I want to switch provider\") --\u003e id2[\"Utterances\"] A1(\"I want to close my account because of the move ?\") --\u003e id2 A2(\"I want to close my account\") --\u003e id2 A3(\"I would like to cancel my subscription\") --\u003e id2 A4(\"I want to disconnect my service\") --\u003e id2 id2 --\u003e idA{\"Churn Intent\"} --\u003e id3[\"Actions\"] id3 --\u003e id4[\"The bot asks the customer for the account closure reason and connect him to an agent\"] Intent Sample phrases Answer / Action appointment Select \u0026ldquo;Appointment\u0026rdquo; quick reply or enter- \u0026ldquo;I need to book an appointment\u0026rdquo;- \u0026ldquo;I need to book an appointment\u0026rdquo;- \u0026ldquo;I would like to book an appointment\u0026rdquo; - Confirmation message - Confirmation SMS - Proactive notification Dates and Times are generated for every appointment. balance - I want to know my balance- What is my balance- Can you send me my balnce by SMS please Your outstanding balance is \u0026hellip; churn - I want to close my account because I want toswitch provider- I want to close my account because of the move- I want to close my account- I would like to cancel my subscription- I want to disconnect my service The bot asks the customer for the account closure reason and connect him to an agent. "
+},
+{
+	"uri": "/040-functionality/010-web-messaging/25-test.html",
+	"title": "Rich Media Test",
+	"tags": [],
+	"description": "",
+	"content": "Genesys Cloud web messaging provides customers with an enhanced experience when they visit your website. Unlike web chat, which provides short-lived, standalone chats, web messaging enables a visitor to enter your site, converse with a bot or agent, and return later to pick up the conversation. With Predictive Engagement, agents can view the entire customer journey as part of the web messaging interaction. Web messaging shares many of the same features and capabilities as the other Genesys Cloud messaging channels that use ACD messaging to enable agents to respond to customer interactions.\nAuthentication / Passing data to the Architect - Inbound Message Flow Predictive Engagement Rich media Bot conversation Authentication / Passing data to the Architect - Inbound Message Flow GSol uses Database plugin of Messenger JavaScript SDK to pass user data and login related information to the Architect\u0026rsquo;s Inbound Message Flow.\nAs a result the access to some operations is closed for the users who are not logged in into GSol web site.\nUser logged out\nUser logged in\nPredictive Engagement \u0026ldquo;Predictive Engagement scenarios\u0026rdquo; section describes scenarious implemented on GSol web site. All of them are supported with Web Messaging.\nWeb Chat and Web Messaging Proactive Engagement chat offers look differently.\nBelow is the example Web Messaging Proactive Engagement chat offer for \u0026ldquo;Reduce Abandoment Rate\u0026rdquo; scenario.\nSee \u0026ldquo;Predictive Engagement scenarios\u0026rdquo; for the scenario\u0026rsquo;s details.\nNotes:\n\u0026ldquo;Reset Altocloud\u0026rdquo; at the bottom of the web site prior to every demonstration. Rich media Cards - Intent switching Quick Replies - Intent switching Quick Replies - Slot filling Quick Replies - Slot filling (Dynamic)\nBot conversation In general, bot conversation in Web Messaging match bot conversation in Web Chat. Web Messaging specific is listed below. Intent Sample phrases\nAnswer / Action\nappointment\nSelect \u0026ldquo;Appointment\u0026rdquo; quick reply\nor enter I need to book an appointment I would like to book an appointment - Confirmation message\n- Confirmation SMS\n- Proactive notification\nDates and Times are generated for every appointment.\nbalance\nI want to know my balance What is my balance Can you send me my balnce by SMS please Your outstanding balance is \u0026hellip;\nchurn\nI want to close my account because I want to switch provider I want to close my account because of the move I want to close my account I would like to cancel my subscription I want to disconnect my service The bot asks the customer for the account closure reason and connect him to an agent.\nmeterReading\nMy meter reading is 13465 I want to provide a meter reading meter reading The bot helps to collect a meter reading.\norderStatus\nWhere is my order 12345 Is my order coming soon? Where is my staff? Where is my order? The bot asks for the order number and provides a status update:\n\u0026ldquo;Your order 12345 is due for delivery tomorrow.\u0026rdquo;\npowerOutage\nthere is no electricity at my place I want to report a power outage no power at my house power outage I have a power outage at my house refund\nI got my shipment but there\u0026rsquo;s a problem I didn\u0026rsquo;t receive the package I ordered online There is a defect in my package I didn\u0026rsquo;t receive the package I ordered online I need a refund How can I get a refund of my solar panels? I ordered a Canadian Solar Panel and I received a different one Can you schedule a pickup for the incorrect product tomorrow at noon? You shipped me the wrong solar panel representative Talk to an agent | Talk to the representative | Connect me to an advisor please\nI would like to speak to an advisor / talk to the representative\nTransfer to an agent\nexit\nGoodbye / Exit\nConversation is finished\n\u0026lt;no-match?\nIf no intent found the bot performs a search in the knowledge base\nintent - intent handled by Google Dialogflow using the approach below:\nThe reason for using several bots could be:\nMigration from Google Dialogflow to Genesys Dialog Engine Bots orchestration (diffrent bots do better different things) Having Dialog Engine in front makes sure that all customer\u0026rsquo;s queries are captured and used in the Optimizer and Intent Miner\n"
+},
+{
+	"uri": "/020-getting-started.html",
+	"title": "Setup",
+	"tags": [],
+	"description": "",
+	"content": "\nPureCloudNow organization - https://login.mypurecloud.com/#/authenticate-adv/org/purecloudnow Agent Workspace (Maverick) - https://apps.mypurecloud.com/digital-desktop/#/work GSol website is available at https://gsolgc.demo.genesys.com/ To perform GSol - DIGITAL demonstration you would need to use custom Web Messenger deployment:\nlogin into GSol web site using your GDemo credentials. select \u0026ldquo;My Account\u0026rdquo; menu item select \u0026ldquo;Custom Web Messenger\u0026rdquo; checkbox enter 2f2c9835-a028-4bae-858d-a623648b7841 in the \u0026ldquo;Specify Web Messenger Deployment Key\u0026rdquo; field click on Apply button "
+},
+{
+	"uri": "/040-functionality/010-web-messaging/30-botconversation.html",
+	"title": "Bot conversation",
+	"tags": [],
+	"description": "",
+	"content": "Bot conversation In general, bot conversation in Web Messaging match bot conversation in Web Chat.\nWeb Messaging specific is listed below.\nIntent- intent handled by Google Dialogflow using the approach below:\nThe reason for using several bots could be:\nMigration from Google Dialogflow to Genesys Dialog Engine Bots orchestration (diffrent bots do better different things) Having Dialog Engine in front makes sure that all customer\u0026rsquo;s queries are captured and used in the Optimizer and Intent Miner\n"
+},
+{
+	"uri": "/040-functionality/020-predictive-engagement/20-customer-retention.html",
+	"title": "Customer Retention",
+	"tags": [],
+	"description": "",
+	"content": "Customer Retention Scenario Login into PureCloudNow organization of Genesys DX Navigate to Admin \u0026gt; Predictive Engagement \u0026gt; Live Now Login into Agent Workspace and make your agent Available Visit GSol website Make sure to click \u0026ldquo;Reset Altocloud\u0026rdquo; link at the bottom of the page to trigger a proactive chat Login into GSol web site Customer is looking for more information on deleting their account. Customer navigates to the Learning page and click on the Accounts tile. On the opened \u0026ldquo;Maintenance \u0026amp; Support\u0026rdquo; page the Customer scrolls down and clicks on \u0026ldquo;How do I delete my account\u0026rdquo; section. Go to Contact Us page Customer Journey in \u0026ldquo;Live Now\u0026rdquo; indicates that \u0026ldquo;Risk Churn\u0026rdquo; segment is assigned to the Customer. Configuration The customer is now at risk of churning and GSol team is trying to understand what are the reason behind this decision. For this reason, the business has set up a specific rules in Predictive Engagement Predictive Engagement offers a chat.\nAgent escalation Based on Predictive Engagement rules, an offer is presented the online customer to assist him in real-time.\nCustomer accepts the chat and a bot offers to talk to an agent.\nWhen distributing an interaction to your GDemo agent, you can showcase 2 different desktops depending on your customer needs:\nCX Desktop Digital Desktop CX Desktop (option 1) CX Desktop Access The customer answers Yes and get connected to a retention specialist who can see the journey in his Agent Workspace. The is connected to a retention specialist who can see the journey in his Agent Workspace. Digital Desktop (option 2) Digital Desktop Access The customer answers Yes and get connected to a retention specialist who can see the journey in his Agent Workspace. The is connected to a retention specialist who can see the journey in his Agent Workspace. Smart Advisor provides agents with the answers on a customer\u0026rsquo;s questions in a real-time. "
+},
+{
+	"uri": "/030-demostory.html",
+	"title": "Demo Story (Draft)",
+	"tags": [],
+	"description": "",
+	"content": "\nSetup Clear cache of your browser Login into PureCloudNow organization of Genesys Cloud Login into Maverick Desktop Visit GSol website Select \u0026ldquo;Reset Altocloud\u0026rdquo; at the bottom-right corner of the web site Login into GSol web site and logout to activate routing to your agent. "
+},
+{
+	"uri": "/030-demostory/30-prospecting.html",
+	"title": "Prospecting",
+	"tags": [],
+	"description": "",
+	"content": "Prospecting A bot welcomes John and presents Quick Replies menu\nJohn asks Is it difficult to maintain solar panels? John have asked this is in Support Center (SS).\nResult: An article containing an image is displayed\nJohn asks How many panels do I need?\nResult: A solar panel calculator starts.\nJohn would need 27 panels to offset his power consumption.\nResult: The bot decides to offer a chat with an agent.\nJohn decides to accept the chat offer.\nResult: John is connected with an agent skilled in solar panels subject area.\nJohn chats with an agent\nResult: Agent Desktop gives an agent 360 view of the customer (history of the previous conversations, history of the conversation with the bot, script, canned responses, journey)\nJohn asks various questions.\nResult: Agent Assist provides suggestions.\n"
+},
+{
+	"uri": "/040-functionality/020-predictive-engagement/30-cart-abandonment.html",
+	"title": "Cart Abandonment",
+	"tags": [],
+	"description": "",
+	"content": "Cart Abandonment Scenario Login on the website with your GDemo credentials ahead of the demo to identify the right Genesys Cloud agent for routing purpose.\nLogin into PureCloudNow organization of Genesys Cloud (PCN) Navigate to Admin \u0026gt; Predictive Engagement \u0026gt; Live Now Login into Agent Workspace and make your agent Available Visit GSo l web site Make sure to click \u0026ldquo;Reset Altocloud\u0026rdquo; link at the bottom of the page to trigger a proactive chat Login into GSol web site Go to \u0026ldquo;Utilities\u0026rdquo; . Add items to the Cart. Please make sure the the total sum does not exceed $2000.\nGo to Checkout and abandon it by clicking on the GSol logo - you will be redirected to GSol home page.\nBased on outcome predictions, Predictive Engagement offers a chat to the visitor to assist the online prospect to finalize their purchase.\nCustomer accepts the chat and he is connected to a sales specialist who can see the journey in his Agent Desktop.\nShort conversation and purchase is made! Congrats\nConfiguration To finalize this purchase, GSol relied ton Predictive Engagement AI to detect when engaging with the prospect is the most likely to result in a purchase.\nBecause this is a demo website and outcomes are simulated, outcome probability is not triggering the actions.\n"
+},
+{
+	"uri": "/040-functionality/050-email.html",
+	"title": "Email",
+	"tags": [],
+	"description": "",
+	"content": "\nThere are two ways to send an email to GSol\nIt may take 1 - 2 minutes for the email to reach your Agent desktop.\nSend an email to one of following email aliases: info@demo.genesys.com customerservice@demo.genesys.com sales@demo.genesys.com Send an email from the Contact Us page of GSol website. This method is only available to you if you are using Widget Type 2 for your demo. It uses a custom CX Widget plugin to send an email.\n"
+},
+{
+	"uri": "/040-functionality.html",
+	"title": "Functionality",
+	"tags": [],
+	"description": "",
+	"content": "\n"
+},
+{
+	"uri": "/030-demostory/40-selling.html",
+	"title": "Selling/Onboarding",
+	"tags": [],
+	"description": "",
+	"content": "Selling/Onboarding John is impressed with the level of service from GSol and has got all his questions answered. In conversation with the agent John expressed his desire to become a GSol customer. John and the agent agreed on roof survey date.\nResult: The agent sends an email with the attached documents to John having John on the chat. An email contains appointment details.\n"
+},
+{
+	"uri": "/030-demostory/50-roofsurvey.html",
+	"title": "Roof Survey",
+	"tags": [],
+	"description": "",
+	"content": "Roof Survey Appointment Reminder A day before the roof survey John receives an SMS message with the reminder of the appointment and realizes that he won’t be able to make it. John visits GSol web site, logs in, starts the Messenger and rescheduled appointment\nResult: An SMS with the appointment details is sent. John phone number is added to agentless notification campaign.\nPost Appointment activity Survey has occurred and confirmed that the roof of John’s house can bear the weight of the panels. And agent sends to John outbound email with a contract to sign.\nResult: Outbound email is delivered to John.\n"
+},
+{
+	"uri": "/030-demostory/60-claim.html",
+	"title": "Claim",
+	"tags": [],
+	"description": "",
+	"content": "Claim A hell storm has damaged 5 solar panels. John calls GSol phone number +1(866) 288-8546\nNOTE: You can call phones mentioned here, press 6 and press 5 when prompts are played.\nResult: Voice bot greats John.\nJohn says I want to order 5 Panasonic solar panels\nResult: Order has been processed and confirmation SMS sent.\nJohn says I want to talk to a representative\nResult: The customer is connected with an agent (script, journey, callback, …)\nAgent uses Agent Assist. John says What is your return policy?\nResult: Agent Assist provides transcription and the answer.\n"
+},
+{
+	"uri": "/040-functionality/100-self-servicebot-to-be-removed.html",
+	"title": "Self-Service bot (Draft)",
+	"tags": [],
+	"description": "",
+	"content": "\nThe GSol bot is built on top of Google Dialog Flow and it configured with the following intents:\nAppointment Refund Shipping Churn Risk Representative Appointment How can I help you?\nHi, I would like to schedule an appointment Sure, I will be glad to setup an appointment with one of our experts. What date works for you?\nThursday and what time is best for you?\nnoon Great! We\u0026rsquo;ve scheduled an appointment with one of our specialist Thursday at noon\nShipping How can I help you?\nHow long to ship my product? Most products takes 3 days to ship our products in the US. Panels might take longer based on the volume.\nWhat else can I do for you?\nI would like to talk with an agent Connecting you to one of our representatives. One moment please.\nRefund How can I help you?\nI would like a refund / I just received the wrong solar panel What was the product did you order?\na Solar panel (optional) I\u0026rsquo;m sorry to hear that. What is the model of the Solar panel you ordered?\nA canadian Solar Panel I’ll be happy to get those replaced right away. I can schedule a pickup. What date works for you?\nnext tuesday What time works for you?\naround noon We\u0026rsquo;ve scheduled a pickup of your Canadian solar panels next tuesday noon\nWhat else can I do for you?\nChurn Risk Hi Arnaud, how can I help today?\nI want to disconnect my service Certainly, let me gather a bit of information and then I’ll connect you with a representative. Why do you need to cancel the subscription?\nI\u0026rsquo;m moving out I am so sorry to hear that. Connecting you to a member of our management team.\nTo transfer to an agent / Representative I would like to talk with an agent Connecting you to one of our representatives. One moment please.\n"
+},
+{
+	"uri": "/040-functionality/030-supportcenter.html",
+	"title": "Support Center",
+	"tags": [],
+	"description": "",
+	"content": "Support Center To get access to the Support Center please use one of following methods:\nMethod 1 Hover your mouse cursor over Messenger icon (1) Click on the appearing icon with a question mark (2) . Method 2 Press \u0026ldquo;Magnifying glass\u0026rdquo; icon The text specified in the web site\u0026rsquo;s search field will be tranferred into Support Center\u0026rsquo;s search field. Once Support Center is opened, browse articles or search for the knowledge.\nAvailable articles Am I eligible for solar tax credit? What is a Tax Credits How many solar panels do I need? Do solar panels need a lot of maintenance? What are the benefits of solar panels? How long do solar panels last? How long do refunds take? What is your refund policy? What payment types do you accept? "
+},
+{
+	"uri": "/040-functionality/010-web-messaging.html",
+	"title": "Web Messaging (Draft)",
+	"tags": [],
+	"description": "",
+	"content": "\nGenesys Cloud web messaging provides customers with an enhanced experience when they visit your website. Unlike web chat, which provides short-lived, standalone chats, web messaging enables a visitor to enter your site, converse with a bot or agent, and return later to pick up the conversation. With Predictive Engagement, agents can view the entire customer journey as part of the web messaging interaction. Web messaging shares many of the same features and capabilities as the other Genesys Cloud messaging channels that use ACD messaging to enable agents to respond to customer interactions.\nSetup \u0026ldquo;My Account\u0026rdquo; menu\nChoose \u0026ldquo;Web Messenger\u0026rdquo; in the \u0026ldquo;Widget Type\u0026rdquo; combobox Click \u0026ldquo;Apply\u0026rdquo; button Notes: The activation of the Web Messaging will be remebered and stay active till the moment when browser\u0026rsquo;s data are cleared.\nAuthentication / Passing data to the Architect - Inbound Message Flow GSol uses Database plugin of Messenger JavaScript SDK to pass user data and login related information to the Architect\u0026rsquo;s Inbound Message Flow. As a result the access to some operations is closed for the users who are not logged in into GSol web site.\nUser logged out: User logged in: "
+},
+{
+	"uri": "/040-functionality/080-whatsapp.html",
+	"title": "WhatsApp",
+	"tags": [],
+	"description": "",
+	"content": "\nGSol bot can join a WhatsApp conversation at +1 (317) 210-8599 if the very first message of the conversation is “Hi GSol” (case insensitive).\nThe bot can answer questions:\nWhat are the benefits of solar panels? / What will I get with solar panels? What is the lifespan of solar panels? / Do solar panels ever wear out? / How long do solar panels last? Is it difficult to maintain solar panels? / Does cleaning your solar panels make a difference? / Do solar panels need a lot of maintenance? How many solar panels do I need? / What should be the size of my solar system? In addition, you can use any intent of the Self-Service Chat bot scenario before proceeding to an agent transfer.\n"
+},
+{
+	"uri": "/040-functionality/090-sfdc-integration.html",
+	"title": "SFDC Integration",
+	"tags": [],
+	"description": "",
+	"content": "\nSetup Log in into Salesforce Obtain the credentials to the PC4SF account under login section of Genesys Cloud for Salesforce demo script Open the Predictive Engagement application (see setup section above). Open the GSol website, and log into it Visualize GPE Journey information in SFDC Login to SFDC Create a new Contact or Edit your existing Salesforce Contact from if not already. Make sure to enter your Predictive Engagement ID as the external contact ID from PCN Go to GSol application, in the contacts tab, select your contact and you should be able to visualize your Customer Journey Lead Creation Customer navigates to the Utilities section select an item and add it to the cart. Change the quantity to ensure the cart value is higher than $2,000. Customer navigates to Checkout page Customer abandons the checkout form by clicking on the GSol logo. Action map triggers an Architect flow to add the lead to the GSol Campaign in Salesforce The Lead is added to a GSol campaign with the details and description of what might be of interest for the prospect When you are finished with this scenario, we recommend deleting your lead from Salesforce. If not deleted, only the description and details information will be updated.\n"
+},
+{
+	"uri": "/040-functionality/110-adobeanalyticsintegration.html",
+	"title": "Adobe Analytics Integration",
+	"tags": [],
+	"description": "",
+	"content": "\nIn order to access Adobe Analytics, go to the following url: https://experience.adobe.com/login Sign In with the following credentials:\nUser: gts@genesys.com Password: TSRocks1!\nPlease make sure not to register this account with your own device\nOnce logged in, select Analytics section\nSelect one of the GTS projects from the Workspace\nHere is an example of what you can find in the GTS - GSol Retails Products project'\nHere is an example of what you can find in the GTS - Engagement Summary Dashboard project.\nMost of the integration resulting from our partnership with Adobe is captured in this project - GTS - Engagement Summary Dashboard\n"
+},
+{
+	"uri": "/040-functionality/040-voice.html",
+	"title": "Voice",
+	"tags": [],
+	"description": "",
+	"content": "\nYou can reach GSol Customer Service with this number: (+1) 866-288-8546\nDepending on your customer profile, you will be offered a personalized service on the phone. To illustrate this personalization, we created 3 segments \u0026lsquo;High Value Shopper\u0026rsquo;, \u0026lsquo;Customer Care Needed\u0026rsquo;, and \u0026lsquo;Customer\u0026rsquo; and we are using Genesys Predictive Engagement to update the customer segment based on the customer web activities in this demo.\nSelf-Service Bot If you do not visit the website, a voice bot will be offered to you. For additional reference, please refer to the \u0026ldquo;scenario: self-service bot\u0026rdquo; section. You can also reset the customer segment using the link in the footer \u0026lsquo;Reset Customer Segment\u0026rsquo; to demo the voice bot.\nSales Support Scenario. A known visitor arrives at the GSol GDemo website. The visitor places item(s) in a shopping cart:\nGenesys Predictive Engagement identifies the visitor as a Segment “High-Value Shopper” based upon the shopping cart dollar amount value or based upon the specific items placed into the cart. Select the Renogy Solar Panel item (+$500) The Visitor calls the Business “GSol”. When a Segment is matched prior to a call, the Segment may be correlated with a “Call Intent”. An inbound call Architect Flow recognizes the visitor and the matched “High-Value Shopper Segment” and plays an audible IVR prompt “Hello xxx. Are you calling about the items in your shopping cart today? Say ‘yes’ or press 1 to be routed to a Sales Specialist. Route the call the appropriate Queue/Skill/Agent As the Agent answers the call, the GPE Customer Journey, Identity Stitching journey visualization may be selected and displayed. The Agent may now see the Outcome Scores and any Segments matched along with current and historical interaction and journey information to address the customer’s call Intent “Complete a Purchase” VIP Care Scenario. A known visitor arrives at the GSol GDemo website. The visitor navigates to Learning and selects “return a product”:\nGenesys Predictive Engagement identifies the visitor as a Segment “Customer Care Needed” based upon the website behavior navigating to “return a product”. Go to \u0026lsquo;Learning\u0026rsquo; section of the website. Click the \u0026lsquo;Maintenance\u0026rsquo; tile. Expand the first Basics menu \u0026lsquo;What is the return policy with Solar Panels\u0026rsquo; The Visitor calls the Business “GSol”. When a Segment is matched prior to a call, the Segment may be correlated with a “Call Intent”. An inbound call Architect Flow recognizes the visitor and the matched “Customer Care Needed” and plays an audible IVR prompt “Hello xxx. Thank you for being a VIP. Are you calling for customer service today? Say ‘yes’ or press 2 to be routed to a Customer Care Specialist. Route the call the appropriate Queue/Skill/Agent As the Agent answers the call, the GPE Customer Journey, Identity Stitching journey visualization may be selected and displayed. The Agent may now see the Outcome Scores and any Segments matched along with current and historical interaction and journey information to address the customer’s call Intent “Customer Care” "
+},
+{
+	"uri": "/050-conclution.html",
+	"title": "Conclusion",
+	"tags": [],
+	"description": "",
+	"content": "\nFinished! Congrats! You\u0026rsquo;ve reached the end of today\u0026rsquo;s workshop. Now you know hot to use GSol application to quickly show your customer various scenarious\nNext Steps If you’d like to continue your Genesys Cloud CX journey, please visit the following links to complete other workshops:\nGenesys and Google- Agent Assist \u0026amp; DialogFlow CX Workshop Quality Management (to be added later) Introduction to Architect (to be added later) Genesys is always striving for improvement. If you have any suggestions on how to improve this workshop, please fill out today\u0026rsquo;s feedback form via this TODO . We’d love to hear from you!\nIf you have any technical questions about this workshop, please contact us at Workshops@genesys.com .\n"
+},
+{
+	"uri": "/categories.html",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags.html",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

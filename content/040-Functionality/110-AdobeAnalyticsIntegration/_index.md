@@ -30,7 +30,7 @@ Here is an example of what you can find in the GTS - GSol Retails Products proje
 
 ![Four](/images/file_1611860738779_Adobe-Retail-Performance.png)
 
-Here is an example of what you can find in the GTS - Engagement Summary Dashboard project. 
+Here is an example of what you can find in the GTS - Engagement Summary Dashboard project.
 
 ![Five](/images/file_1611860826354_Adobe-Engagement-Chat.png)
 

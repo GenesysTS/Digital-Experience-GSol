@@ -51,34 +51,6 @@ defaultContentLanguage = "en"
 # Force to have /en/my-page and /fr/my-page routes, even for default language.
 defaultContentLanguageInSubdir= true
 
- 
-
- 
-
- 
-
- 
-
- 
-
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      linkifyProtocol = 'https'
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      autoHeadingID = true
-      autoHeadingIDType = 'github'
-      [markup.goldmark.parser.attribute]
-        block = false
-        title = true
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xhtml = false
+defaultMarkdownHandler = 'goldmark'
+goldmark.renderer.unsafe = true

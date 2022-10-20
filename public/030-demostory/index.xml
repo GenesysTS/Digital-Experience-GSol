@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo Story (Draft) on Genesys Workshops: Your_Workshop_Name</title>
+    <link>/030-demostory.html</link>
+    <description>Recent content in Demo Story (Draft) on Genesys Workshops: Your_Workshop_Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/030-demostory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preamble</title>
+      <link>/030-demostory/10-preamble.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/10-preamble.html</guid>
+      <description>Preamble The name of the main character is John. The energy crisis is unfolding and pushing electricity prices to new heights. Trying to mitigate the impact of the crisis on the family, John is looking at various options and the installation of solar panels is most promising one. John has heard many time that GSol is leading solar supplier and installer and decided to visit GSol website to find out more.</description>
+    </item>
+    
+    <item>
+      <title>Monitoring-Observing???</title>
+      <link>/030-demostory/20-observing.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/20-observing.html</guid>
+      <description>Monitoring-Observing??? John enters What are benefits into a search field.
+Result: Support Center is opened, and search field is prepopulated.
+John decided to add more details to his query and started to type of solar at the of the search field.
+Result: Support Center auto-suggests several articles.
+John selected What are benefits of solar panels.
+Result: There is a video clip embedded into the article.
+John asks Do solar panels need a lot of maintenance?</description>
+    </item>
+    
+    <item>
+      <title>Prospecting</title>
+      <link>/030-demostory/30-prospecting.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/30-prospecting.html</guid>
+      <description>Prospecting A bot welcomes John and presents Quick Replies menu
+John asks Is it difficult to maintain solar panels? John have asked this is in Support Center (SS).
+Result: An article containing an image is displayed
+John asks How many panels do I need?
+Result: A solar panel calculator starts.
+John would need 27 panels to offset his power consumption.
+Result: The bot decides to offer a chat with an agent.</description>
+    </item>
+    
+    <item>
+      <title>Selling/Onboarding</title>
+      <link>/030-demostory/40-selling.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/40-selling.html</guid>
+      <description>Selling/Onboarding John is impressed with the level of service from GSol and has got all his questions answered. In conversation with the agent John expressed his desire to become a GSol customer. John and the agent agreed on roof survey date.
+Result: The agent sends an email with the attached documents to John having John on the chat. An email contains appointment details.</description>
+    </item>
+    
+    <item>
+      <title>Roof Survey</title>
+      <link>/030-demostory/50-roofsurvey.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/50-roofsurvey.html</guid>
+      <description>Roof Survey Appointment Reminder A day before the roof survey John receives an SMS message with the reminder of the appointment and realizes that he won’t be able to make it. John visits GSol web site, logs in, starts the Messenger and rescheduled appointment
+Result: An SMS with the appointment details is sent. John phone number is added to agentless notification campaign.
+Post Appointment activity Survey has occurred and confirmed that the roof of John’s house can bear the weight of the panels.</description>
+    </item>
+    
+    <item>
+      <title>Claim</title>
+      <link>/030-demostory/60-claim.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/60-claim.html</guid>
+      <description>Claim A hell storm has damaged 5 solar panels. John calls GSol phone number +1(866) 288-8546
+NOTE: You can call phones mentioned here, press 6 and press 5 when prompts are played.
+Result: Voice bot greats John.
+John says I want to order 5 Panasonic solar panels
+Result: Order has been processed and confirmation SMS sent.
+John says I want to talk to a representative
+Result: The customer is connected with an agent (script, journey, callback, …)</description>
+    </item>
+    
+  </channel>
+</rss>

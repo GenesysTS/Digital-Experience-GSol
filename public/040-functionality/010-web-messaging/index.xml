@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Messaging (Draft) on Genesys Workshops: Your_Workshop_Name</title>
+    <link>/040-functionality/010-web-messaging.html</link>
+    <description>Recent content in Web Messaging (Draft) on Genesys Workshops: Your_Workshop_Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/040-functionality/010-web-messaging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predictive Engagement</title>
+      <link>/040-functionality/010-web-messaging/10-predictiveengagement.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/10-predictiveengagement.html</guid>
+      <description>Predictive Engagement &amp;ldquo;Predictive Engagement&amp;rdquo; section describes scenarious implemented on GSol web site. All of them are supported with Web Messaging.
+Web Chat and Web Messaging Proactive Engagement chat offers look differently.
+Below is the example Web Messaging Proactive Engagement chat offer for &amp;ldquo;Reduce Abandoment Rate&amp;rdquo; scenario. See &amp;ldquo;Predictive Engagement scenarios&amp;rdquo; for the scenario&amp;rsquo;s details.
+Notes: &amp;ldquo;Reset Altocloud&amp;rdquo; at the bottom of the web site prior to every demonstration.</description>
+    </item>
+    
+    <item>
+      <title>Rich Media</title>
+      <link>/040-functionality/010-web-messaging/20-richmedia.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/20-richmedia.html</guid>
+      <description>Rich Media Cards - Intent switching Quick Replies - Intent Switching Quick Replies - Slot filling Quick Replies - Dynamic Slot Bot conversation flowchart LR id1(&#34;Sample Phrases&#34;) --&gt; id2{&#34;Intent&#34;} --&gt; id3[&#34;Answer / Action&#34;] Schedule an appointment The bot can schedule an appointment with a tax specialist / advisor.
+flowchart LR id1[&#34;Quick reply - Appointment&#34;] --&gt; idA A(&#34;I would like to book an appointment&#34;) --&gt; id2[&#34;Utterances&#34;] A1(&#34;I need to book an appointment&#34;</description>
+    </item>
+    
+    <item>
+      <title>Rich Media Test</title>
+      <link>/040-functionality/010-web-messaging/25-test.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/25-test.html</guid>
+      <description>Genesys Cloud web messaging provides customers with an enhanced experience when they visit your website. Unlike web chat, which provides short-lived, standalone chats, web messaging enables a visitor to enter your site, converse with a bot or agent, and return later to pick up the conversation. With Predictive Engagement, agents can view the entire customer journey as part of the web messaging interaction. Web messaging shares many of the same features and capabilities as the other Genesys Cloud messaging channels that use ACD messaging to enable agents to respond to customer interactions.</description>
+    </item>
+    
+    <item>
+      <title>Bot conversation</title>
+      <link>/040-functionality/010-web-messaging/30-botconversation.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/30-botconversation.html</guid>
+      <description>Bot conversation In general, bot conversation in Web Messaging match bot conversation in Web Chat.
+Web Messaging specific is listed below.
+Intent- intent handled by Google Dialogflow using the approach below:
+The reason for using several bots could be:
+Migration from Google Dialogflow to Genesys Dialog Engine Bots orchestration (diffrent bots do better different things) Having Dialog Engine in front makes sure that all customer&amp;rsquo;s queries are captured and used in the Optimizer and Intent Miner</description>
+    </item>
+    
+  </channel>
+</rss>

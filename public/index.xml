@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GSol on Genesys Workshops: Your_Workshop_Name</title>
+    <link>/</link>
+    <description>Recent content in GSol on Genesys Workshops: Your_Workshop_Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preamble</title>
+      <link>/030-demostory/10-preamble.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/10-preamble.html</guid>
+      <description>Preamble The name of the main character is John. The energy crisis is unfolding and pushing electricity prices to new heights. Trying to mitigate the impact of the crisis on the family, John is looking at various options and the installation of solar panels is most promising one. John has heard many time that GSol is leading solar supplier and installer and decided to visit GSol website to find out more.</description>
+    </item>
+    
+    <item>
+      <title>Predictive Engagement</title>
+      <link>/040-functionality/010-web-messaging/10-predictiveengagement.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/10-predictiveengagement.html</guid>
+      <description>Predictive Engagement &amp;ldquo;Predictive Engagement&amp;rdquo; section describes scenarious implemented on GSol web site. All of them are supported with Web Messaging.
+Web Chat and Web Messaging Proactive Engagement chat offers look differently.
+Below is the example Web Messaging Proactive Engagement chat offer for &amp;ldquo;Reduce Abandoment Rate&amp;rdquo; scenario. See &amp;ldquo;Predictive Engagement scenarios&amp;rdquo; for the scenario&amp;rsquo;s details.
+Notes: &amp;ldquo;Reset Altocloud&amp;rdquo; at the bottom of the web site prior to every demonstration.</description>
+    </item>
+    
+    <item>
+      <title>Tax Credit Offer</title>
+      <link>/040-functionality/020-predictive-engagement/10-content-offer.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/020-predictive-engagement/10-content-offer.html</guid>
+      <description>Tax Credit Offer (Content Offer) Genesys Predictive Engagement can display content offers on your website to nudge online visitors at the right moment in time and expose them proper Call To Action. In our specific scenario, we display a content offer to online visitors when abandoning the form to get quotes for installing a Solar system.
+What is a Genesys Content Offer? GSol Tax Credit offer is being defined in the Predictive Engagement Action Library as a Genesys content offer described below.</description>
+    </item>
+    
+    <item>
+      <title>Monitoring-Observing???</title>
+      <link>/030-demostory/20-observing.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/20-observing.html</guid>
+      <description>Monitoring-Observing??? John enters What are benefits into a search field.
+Result: Support Center is opened, and search field is prepopulated.
+John decided to add more details to his query and started to type of solar at the of the search field.
+Result: Support Center auto-suggests several articles.
+John selected What are benefits of solar panels.
+Result: There is a video clip embedded into the article.
+John asks Do solar panels need a lot of maintenance?</description>
+    </item>
+    
+    <item>
+      <title>Rich Media</title>
+      <link>/040-functionality/010-web-messaging/20-richmedia.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/20-richmedia.html</guid>
+      <description>Rich Media Cards - Intent switching Quick Replies - Intent Switching Quick Replies - Slot filling Quick Replies - Dynamic Slot Bot conversation flowchart LR id1(&#34;Sample Phrases&#34;) --&gt; id2{&#34;Intent&#34;} --&gt; id3[&#34;Answer / Action&#34;] Schedule an appointment The bot can schedule an appointment with a tax specialist / advisor.
+flowchart LR id1[&#34;Quick reply - Appointment&#34;] --&gt; idA A(&#34;I would like to book an appointment&#34;) --&gt; id2[&#34;Utterances&#34;] A1(&#34;I need to book an appointment&#34;</description>
+    </item>
+    
+    <item>
+      <title>Rich Media Test</title>
+      <link>/040-functionality/010-web-messaging/25-test.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/25-test.html</guid>
+      <description>Genesys Cloud web messaging provides customers with an enhanced experience when they visit your website. Unlike web chat, which provides short-lived, standalone chats, web messaging enables a visitor to enter your site, converse with a bot or agent, and return later to pick up the conversation. With Predictive Engagement, agents can view the entire customer journey as part of the web messaging interaction. Web messaging shares many of the same features and capabilities as the other Genesys Cloud messaging channels that use ACD messaging to enable agents to respond to customer interactions.</description>
+    </item>
+    
+    <item>
+      <title>Bot conversation</title>
+      <link>/040-functionality/010-web-messaging/30-botconversation.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/010-web-messaging/30-botconversation.html</guid>
+      <description>Bot conversation In general, bot conversation in Web Messaging match bot conversation in Web Chat.
+Web Messaging specific is listed below.
+Intent- intent handled by Google Dialogflow using the approach below:
+The reason for using several bots could be:
+Migration from Google Dialogflow to Genesys Dialog Engine Bots orchestration (diffrent bots do better different things) Having Dialog Engine in front makes sure that all customer&amp;rsquo;s queries are captured and used in the Optimizer and Intent Miner</description>
+    </item>
+    
+    <item>
+      <title>Customer Retention</title>
+      <link>/040-functionality/020-predictive-engagement/20-customer-retention.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/020-predictive-engagement/20-customer-retention.html</guid>
+      <description>Customer Retention Scenario Login into PureCloudNow organization of Genesys DX Navigate to Admin &amp;gt; Predictive Engagement &amp;gt; Live Now Login into Agent Workspace and make your agent Available Visit GSol website Make sure to click &amp;ldquo;Reset Altocloud&amp;rdquo; link at the bottom of the page to trigger a proactive chat Login into GSol web site Customer is looking for more information on deleting their account. Customer navigates to the Learning page and click on the Accounts tile.</description>
+    </item>
+    
+    <item>
+      <title>Prospecting</title>
+      <link>/030-demostory/30-prospecting.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/30-prospecting.html</guid>
+      <description>Prospecting A bot welcomes John and presents Quick Replies menu
+John asks Is it difficult to maintain solar panels? John have asked this is in Support Center (SS).
+Result: An article containing an image is displayed
+John asks How many panels do I need?
+Result: A solar panel calculator starts.
+John would need 27 panels to offset his power consumption.
+Result: The bot decides to offer a chat with an agent.</description>
+    </item>
+    
+    <item>
+      <title>Cart Abandonment</title>
+      <link>/040-functionality/020-predictive-engagement/30-cart-abandonment.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/040-functionality/020-predictive-engagement/30-cart-abandonment.html</guid>
+      <description>Cart Abandonment Scenario Login on the website with your GDemo credentials ahead of the demo to identify the right Genesys Cloud agent for routing purpose.
+Login into PureCloudNow organization of Genesys Cloud (PCN) Navigate to Admin &amp;gt; Predictive Engagement &amp;gt; Live Now Login into Agent Workspace and make your agent Available Visit GSo l web site Make sure to click &amp;ldquo;Reset Altocloud&amp;rdquo; link at the bottom of the page to trigger a proactive chat Login into GSol web site Go to &amp;ldquo;Utilities&amp;rdquo; .</description>
+    </item>
+    
+    <item>
+      <title>Selling/Onboarding</title>
+      <link>/030-demostory/40-selling.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/40-selling.html</guid>
+      <description>Selling/Onboarding John is impressed with the level of service from GSol and has got all his questions answered. In conversation with the agent John expressed his desire to become a GSol customer. John and the agent agreed on roof survey date.
+Result: The agent sends an email with the attached documents to John having John on the chat. An email contains appointment details.</description>
+    </item>
+    
+    <item>
+      <title>Roof Survey</title>
+      <link>/030-demostory/50-roofsurvey.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/50-roofsurvey.html</guid>
+      <description>Roof Survey Appointment Reminder A day before the roof survey John receives an SMS message with the reminder of the appointment and realizes that he won’t be able to make it. John visits GSol web site, logs in, starts the Messenger and rescheduled appointment
+Result: An SMS with the appointment details is sent. John phone number is added to agentless notification campaign.
+Post Appointment activity Survey has occurred and confirmed that the roof of John’s house can bear the weight of the panels.</description>
+    </item>
+    
+    <item>
+      <title>Claim</title>
+      <link>/030-demostory/60-claim.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/030-demostory/60-claim.html</guid>
+      <description>Claim A hell storm has damaged 5 solar panels. John calls GSol phone number +1(866) 288-8546
+NOTE: You can call phones mentioned here, press 6 and press 5 when prompts are played.
+Result: Voice bot greats John.
+John says I want to order 5 Panasonic solar panels
+Result: Order has been processed and confirmation SMS sent.
+John says I want to talk to a representative
+Result: The customer is connected with an agent (script, journey, callback, …)</description>
+    </item>
+    
+  </channel>
+</rss>

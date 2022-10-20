@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFDC Integration on Genesys Workshops: Your_Workshop_Name</title>
+    <link>/040-functionality/090-sfdc-integration.html</link>
+    <description>Recent content in SFDC Integration on Genesys Workshops: Your_Workshop_Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/040-functionality/090-sfdc-integration/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
