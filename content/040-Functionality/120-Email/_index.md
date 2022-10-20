@@ -1,7 +1,7 @@
 ---
 title: "Email"
 chapter: true
-weight: 40
+weight: 120
 ---
 
 ![Title](/images/email.PNG)
@@ -9,7 +9,7 @@ weight: 40
 There are two ways to send an email to GSol
 
 {{% notice note %}}
-It may take 1 - 2 minutes for the email to reach your Agent desktop.
+>It may take 1 - 2 minutes for the email to reach your Agent desktop.
 {{% /notice %}}
 
 1. Send an email to one of following email aliases:
@@ -22,7 +22,7 @@ It may take 1 - 2 minutes for the email to reach your Agent desktop.
 2. Send an email from the [**Contact Us**](https://gsolgc.demo.genesys.com/#contactus) page of GSol website.
 
 {{% notice warning %}}
-This method is only available to you if you are using Widget Type 2 for your demo. It uses a custom CX Widget plugin to send an email.
+>This method is only available to you if you are using Widget Type 2 for your demo. It uses a custom CX Widget plugin to send an email.
 {{% /notice %}}
 
 ![Title](/images/dx_gsol_my_account_widget.png)

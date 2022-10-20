@@ -8,10 +8,15 @@ weight: 120
 
 You can reach GSol Customer Service with this number: **(+1) 866-288-8546**
  
+
+## Personalization
+
 Depending on your customer profile, you will be offered a personalized service on the phone. To illustrate this personalization, we created 3 segments 'High Value Shopper', 'Customer Care Needed', and 'Customer' and we are using Genesys Predictive Engagement to update the customer segment based on the customer web activities in this demo.
- 
+
 ### Self-Service Bot
-If you do not visit the website, a voice bot will be offered to you. For additional reference, please refer to the "scenario: self-service bot" section.
+
+If you do not visit the website, a voice bot will be offered to you. The voice bot offers similar capabilities as the chatbots.
+<br>For additional reference, please refer to the "Web Messaging: Bot conversations" section.
 You can also reset the customer segment using the link in the footer 'Reset Customer Segment' to demo the voice bot.
 
 ![One](/images/file_1637598294651_GPE_reset_segments.png)
@@ -38,3 +43,15 @@ A known visitor arrives at the GSol GDemo website. The visitor navigates to Lear
 
 ![Two](/images/file_1637598327026_GPE_service_segment.png)
 
+## Google Agent Assist
+
+### Scenario
+
+- Launch CX Desktop with PCN
+- Call this number: **(+1) 866-288-8546** from your phone
+- Ask to speak to an agent
+- While talking to an agent, ask him what is the return policy?
+- Move to the Agent Assist tab of the CX Desktop
+- Show the Return Policy suggestion push to the agent
+
+![Two](/images/agent-assist.png)

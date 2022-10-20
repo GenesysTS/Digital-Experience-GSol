@@ -1,16 +1,16 @@
 ---
 title: "SFDC Integration"
 chapter: true
-weight: 90
+weight: 50
 ---
 
 ![Title](/images/sfdc.PNG)
 
 ### Setup
 1. Log in into Salesforce
-- Obtain the credentials to the PC4SF account under login section of Genesys Cloud for Salesforce demo script
-2. Open the Predictive Engagement application (see setup section above).
-3. Open the GSol website, and log into it
+- Obtain the credentials to the PC4SF account under login section of Genesys Cloud for Salesforce
+1. Open the Predictive Engagement application (see setup section above).
+2. Open the GSol website, and log into it
 
 ### Visualize GPE Journey information in SFDC
 1. Login to SFDC 
@@ -20,7 +20,7 @@ weight: 90
 ![One](/images/file_1604350219466_gsol-1.png)
 
 ### Lead Creation
-1. Customer navigates to the Utilities section select an item and add it to the cart. Change the quantity to ensure the cart value is higher than $2,000.
+1. Customer navigates to the Utilities section select an item and add it to the cart. Change the quantity to ensure the cart value is **higher than $2,000.**
 2. Customer navigates to Checkout page
 3. Customer abandons the checkout form by clicking on the GSol logo.
 4. Action map triggers an Architect flow to add the lead to the GSol Campaign in Salesforce

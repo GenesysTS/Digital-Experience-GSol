@@ -4,7 +4,7 @@ chapter: true
 weight: 10
 ---
 
-## Tax Credit Offer (Content Offer)
+## Tax Credit Offer
 
 Genesys Predictive Engagement can display content offers on your website to nudge online visitors at the right moment in time and expose them proper Call To Action.
 In our specific scenario, we display a content offer to online visitors when abandoning the form to get quotes for installing a Solar system.
@@ -22,7 +22,7 @@ In our GSol Tax Credit scenario, this content offer is being displayed to online
 ### GSol Tax Credit Offer scenario
 
 {{% notice info %}}
-Login on the website with your GDemo credentials ahead of the demo to identify the right Genesys Cloud agent for routing purpose.{{% /notice %}}
+> Login on the website with your GDemo credentials ahead of the demo to identify the right Genesys Cloud agent for routing purpose.{{% /notice %}}
 
 1. Visit [GSol website](https://gsolgc.demo.genesys.com/)
 2. Go to **"Residential"** page and scroll down
@@ -50,4 +50,3 @@ Wait for few seconds and the Tax Credit offer will be displayed as a modal
 
 - Click on the   **Check it out!**   Call To Action (CTA) button 
 - You will be redirected to the **"Tax Credit Advisor"** page with the additional information
-

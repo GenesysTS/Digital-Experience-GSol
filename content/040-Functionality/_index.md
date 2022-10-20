@@ -1,12 +1,20 @@
 ---
-title: "Features"
+title: "How-to instructions"
 chapter: true
 weight: 40
 ---
 
-![Title](/images/Functionality.PNG)
+![Title](/images/Introduction.PNG)
+
+
+## How-to guides
+
+This section is helping you walk through the demo with step by step instruction to demo a specific feature.
 
 ### Setup
+
+{{% notice info %}}
+ > Before running a specific scenario, make sure to reset your environment.{{% /notice %}}
 
 - Clear cache of your browser
 - Login into **[PureCloudNow organization](https://login.mypurecloud.com/#/authenticate-adv/org/purecloudnow)** of Genesys Cloud
@@ -16,6 +24,6 @@ weight: 40
 
  ![Reset](/images/gsol-gpe-reset-altocloud.png)
 
- {{% notice note %}}
-Login into GSol website with your GDemo credentials ahead of the demo to activate routing for your dedicated agent.{{% /notice %}}
+{{% notice note %}}
+ > Login into GSol website with your GDemo credentials ahead of the demo to activate routing for your dedicated agent.{{% /notice %}}
 

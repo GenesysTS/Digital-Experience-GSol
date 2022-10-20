@@ -203,24 +203,33 @@ Our customer Joe is environmentally conscious and is looking for ways to reduce 
   <div class="col">
 <br><b><u>Talk Track</u></b><br><br><br>
     {customer} thinks “well I do want to know what type and how many solar panels I would require. It looks like the Product Advisor is what I need”
+    <br><br>
+     “oh no” thinks {customer} “this is what I was worried about. I know my average monthly bill, but I have no idea how many Kilowatt/hours I use in a year. I hope this isn’t a problem”
+    <br><br> “Oh I can answer that…”
+    <br><br> “…okay this is easier than I expected…”
+    <br><br> “…Simple” 
   </div>
   <div class="col">
   <br><b><u>Click Track</u></b><br><br><br>
-The Web Messenger opens and a bot asks: What would you like to do?
-<br>Buttons are offered for many intents.
+  The Web Messenger opens and a bot asks: What would you like to do?
 <br>Click on Product Advisor button
+  <img src="/images/gsol-msg-pa.gif"/>
+
 </div>
 
   <div class="col">
   <br><b><u>Value statements</u></b><br><br><br>
     • Proactive Engagement Based on Website Activity
     <br>• Quick response buttons provide an easy intuitive experience
+    <br>
+    <br>• AI Guided Media Rich Experience
+    <br>• Increased Call Deflection
 
 
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col">
     “oh no” thinks {customer} “this is what I was worried about. I know my average monthly bill, but I have no idea how many Kilowatt/hours I use in a year. I hope this isn’t a problem” 
   </div>
@@ -234,9 +243,9 @@ The Web Messenger opens and a bot asks: What would you like to do?
  • AI Guided Media Rich Experience
  <br>• Increased Call Deflection
 </div>
-</div>
+</div> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col">
    “Oh I can answer that…”
   </div>
@@ -247,9 +256,9 @@ The Web Messenger opens and a bot asks: What would you like to do?
 
   <div class="col">
 </div>
-</div>
+</div> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col">
    “…okay this is easier than I expected…”
   </div>
@@ -260,9 +269,9 @@ The Web Messenger opens and a bot asks: What would you like to do?
 
   <div class="col">
 </div>
-</div>
+</div> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col">
    “…Simple”
   </div>
@@ -273,7 +282,7 @@ The Web Messenger opens and a bot asks: What would you like to do?
 
   <div class="col">
 </div>
-</div>
+</div> -->
 
 <div class="row">
   <div class="col">

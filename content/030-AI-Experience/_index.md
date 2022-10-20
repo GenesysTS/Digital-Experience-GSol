@@ -12,8 +12,14 @@ This workshop will present two scenarios deployed by GSol company.
 
 ### Scenarios
 
-- Digital
-- Voice
+- Digital scenario
+- Knowledge Management
+- Voice scenario
+
+### The story
+> brought to you by Brad
+
+{{< vimeo 762356211 >}}
 
 ### Digital capabilities
 
@@ -26,5 +32,3 @@ This workshop will present two scenarios deployed by GSol company.
 - Journey Visualization
 - Email
 - Knowledge Workbench / Knowledge Optimizer
-
-![save](/images/Roof.PNG)
