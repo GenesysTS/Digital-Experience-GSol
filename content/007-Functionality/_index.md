@@ -1,7 +1,7 @@
 ---
 title: "How-to"
 chapter: true
-weight: 05
+weight: 10
 ---
 
 ![Title](/images/Introduction.PNG)

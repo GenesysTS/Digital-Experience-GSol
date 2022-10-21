@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Management"
 chapter: true
-weight: 15
+weight: 10
 ---
 
 <style>

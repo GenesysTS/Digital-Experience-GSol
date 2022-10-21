@@ -1,7 +1,7 @@
 ---
 title: "AI Experience Story"
 chapter: true
-weight: 1
+weight: 10
 ---
 
 ![Title](/images/DemoStory.PNG)
@@ -33,3 +33,8 @@ This section will present story boards helping to articulate the benefits of the
 - Journey Visualization
 - Email
 - Knowledge Workbench / Knowledge Optimizer
+
+### Available resources
+
+- [GSol story presentation](https://storage.googleapis.com/gdemo-workshops-test/gsol_journey_deck.pptx)
+- [GSol story script](/documents/gsol_digital_demo_script.docx)
