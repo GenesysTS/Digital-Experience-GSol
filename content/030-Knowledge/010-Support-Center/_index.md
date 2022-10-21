@@ -57,23 +57,18 @@ td, th {
 }
 
 </style>
-# Knowledge management
-
-Genesys Cloud offers a powerful way to manage knowledge across multiple touchpoints. Whether information is needed  across the online presence via the bots, the Support Center and Smart Advisor.
-
-- Support Center
-- Bot Knowledge
-- Smart Advisor
 
 
 ## Support Center
 
 There are 2 ways to expose the Support Center on GSol website.
+
 #### Method 1
 
 1. Hover your mouse cursor over **Messenger** icon   (1)  
 2. Click on the appearing icon with a question mark  (2)  .
 
+![One](/images/gsol-support-center.png)
 #### Method 2
 
 1. Press **"Magnifying glass"** icon

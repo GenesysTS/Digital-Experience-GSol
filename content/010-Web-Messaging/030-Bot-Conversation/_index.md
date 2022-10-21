@@ -112,4 +112,4 @@ See below the bot conversations currently available in our GSol demo:
 | Order Status | - Is my order coming soon? <br> - Where is my stuff?<br>- Where is my order 12345<br>- Where is my order?<br> |  The bot asks for the order number and provides a status update:<br>"Your order 12345 is due for delivery tomorrow."|
 | Representative | - Talk to an agent? <br> - Talk to the representative<br>- I would like to speak to an advisor<br>- Connect me to an advisor please<br> |  The bot transfers to an agent |
 | Exit | - Goodbye <br> - Exit |  Conversation is finished |
-| No Match |  If no intent found the bot performs a search in the GSol knowledge base | [Additional info here]({{< ref "./../../030-Knowledge/_index.md" >}} "Knowledge")  |
+| No Match |  If no intent found the bot performs a search in the GSol knowledge base | [Additional info here]({{< relref "/030-Knowledge/" >}} "Knowledge")  |

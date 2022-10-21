@@ -4,22 +4,23 @@ chapter: true
 weight: 1
 ---
 
-## Genesys AI Experience 
+![Title](/images/DemoStory.PNG)
+
+## Genesys AI Experience
 
 ### Our GSol Story
 
 This section will present story boards helping to articulate the benefits of the Genesys AI Experience deployed by GSol company.
+
+> brought to you by Brad
+
+{{< vimeo 762356211 >}}
 
 ### Scenarios
 
 - Digital scenario
 - Knowledge Management
 - Voice scenario
-
-### The story
-> brought to you by Brad
-
-{{< vimeo 762356211 >}}
 
 ### Digital capabilities
 

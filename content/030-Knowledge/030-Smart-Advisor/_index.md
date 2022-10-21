@@ -57,16 +57,6 @@ td, th {
 }
 
 </style>
-# Knowledge management
-
-Genesys Cloud offers a powerful way to manage knowledge across multiple touchpoints. Whether information is needed  across the online presence via the bots, the Support Center and Smart Advisor.
-
-- Support Center
-- Bot Knowledge
-- Smart Advisor
-
-
-
 ## Smart Advisor
 
 Smart Advisor suggests an answer based on customer's question to help agents be more efficient and to stay current on the latest information available.

@@ -73,3 +73,5 @@ Genesys Web Messenger has the capabilities to integrate with several bots provid
 <br>- Bots orchestration (diffrent bots do better different things)
 <br> - Having Dialog Engine in front makes sure that all customer's queries are captured and used in the Optimizer and Intent Miner
 {{% /notice %}}
+
+![Title](/images/gsol-dgt-de-2-gdf.png)

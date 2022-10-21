@@ -9,7 +9,7 @@ weight: 40
 ### Scenario
 
  {{% notice info %}}
-Login into GSol website with your GDemo credentials ahead of the demo to activate routing for your dedicated agent.{{% /notice %}}
+> Login into GSol website with your GDemo credentials ahead of the demo to activate routing for your dedicated agent.{{% /notice %}}
 
 1. Login into [PureCloudNow](https://login.mypurecloud.com/#/authenticate-adv/org/purecloudnow) organization of Genesys Cloud (PCN)
 2. Navigate to **Admin > Predictive Engagement > Live Now**
@@ -47,4 +47,4 @@ To finalize this purchase, GSol relied ton Predictive Engagement AI to detect wh
 ![One](/images/dx_gso_gpe_sales_action_1.png)
 
 {{% notice note %}}
-Because this is a demo website and outcomes are simulated, outcome probability is not triggering the actions.{{% /notice %}}
+> Because this is a demo website and outcomes are simulated, outcome probability is not triggering the actions.{{% /notice %}}
