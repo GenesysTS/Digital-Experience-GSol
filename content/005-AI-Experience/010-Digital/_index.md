@@ -62,7 +62,9 @@ td, th {
 
 ### Introduction
 
-Our customer Joe is environmentally conscious and is looking for ways to reduce household energy costs. He/She’s been hearing more and more about Solar Panels and has seen them being installed on a few homes in his/her area by a company called GSol. {customer} decides to go to GSol’s website to learn more and see if this is something he/she wants to explore more seriously.
+Our customer is environmentally conscious and is looking for ways to reduce household energy costs. He/She’s been hearing more and more about Solar Panels and has seen them being installed on a few homes in his/her area by a company called GSol. {customer} decides to go to GSol’s website to learn more and see if this is something he/she wants to explore more seriously.
+
+![Title](/images/gsol_story_monitoring.png)
 
 <div class="row">
   <div class="col">
@@ -139,6 +141,8 @@ Our customer Joe is environmentally conscious and is looking for ways to reduce 
 
 
 <br>
+
+![Title](/images/gsol_story_prospecting.png)
 
 ### Predictive Engagement
 
@@ -401,6 +405,7 @@ Our customer Joe is environmentally conscious and is looking for ways to reduce 
   <div class="col"></div>
 </div>
 
+![Title](/images/gsol_story_onboarding.png)
 ### Email
 
 <div class="row">
@@ -449,6 +454,7 @@ Login to GSol
   <div class="col"></div>
 </div>
 
+![Title](/images/gsol_story_conversion.png)
 ### Web Messenger
 
 <div class="row">

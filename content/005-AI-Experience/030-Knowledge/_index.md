@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Management"
 chapter: true
-weight: 10
+weight: 15
 ---
 
 <style>
@@ -61,6 +61,10 @@ td, th {
 ## Knowledge Management
 
 ### Knowledge Optimizer
+
+
+![Title](/images/gsol_knowledget_optimizer.png)
+
 
 <div class="row">
   <div class="col">

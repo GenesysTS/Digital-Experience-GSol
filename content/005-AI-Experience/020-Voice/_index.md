@@ -60,6 +60,7 @@ td, th {
 
 ## Voice Scenario
 
+![Title](/images/gsol_story_conversion.png)
 
 <div class="row">
   <div class="col">
