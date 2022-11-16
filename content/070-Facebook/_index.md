@@ -1,7 +1,7 @@
 ---
-title: "Smart Advisor"
+title: "Facebook"
 chapter: true
-weight: 30
+weight: 70
 ---
 
 <style>
@@ -57,39 +57,26 @@ td, th {
 }
 
 </style>
-## Smart Advisor
 
-Smart Advisor suggests an answer based on customer's question to help agents be more efficient and to stay current on the latest information available.
+![Title](/images/chapter-facebook.png)
 
-### Pre-requisites
+**GSol Facebook page** is https://www.facebook.com/GSolGenesys/
 
-In order to showcase Smart Advisor, you need to update your GDemo customer record. 
-This information is used in the Architect flow when the chat is transferred to a customer representative to define the appropriate queue.
+**GSol bot** would respond to your messages sent in the **Facebook Messenger**.
 
-![smart-advisor-1](/images/dx_gsol_smart_advisor_1.png)
-
-{{% notice warning %}}
-> Don't forget to add your PCN Agent to the **GSOL - Customer Service** queue if you want to use Smart Advisor capabilities. Genesys Partners should add their PCN agents into **GSOL - Partner Customer Service**
-{{% /notice %}}
+The bot is exactly the same one that is used in Web Messenger.
 
 
-![smart-advisor-1](/images/gsol_smart_adv_2.png)
+<div class="row">
+	<div class="col">
 
-At this time, Smart Advisor is only available to the Digital Desktop
+You can choose a service using **Quick Replies**.
 
-### Scenario
+<br>
 
-- Open Digital Desktop
-- Launch Web Messenger from GSol website
-- Ask the benefits of Solar Panels from GSol chat
-- Request Customer Representative
-- While chatting with an agent, ask "How long does a solar panel last?" 
+Or you can ask the bot for the information. 
 
-You will be able to see suggestions of relevant articles in real-time to the agent.
-
-![smart-advisor-1](/images/gsol-smart-advisor-3.png)
-
-## Available articles
+For example:
 
 - Am I eligible for solar tax credit?
 - What is a Tax Credits
@@ -100,3 +87,15 @@ You will be able to see suggestions of relevant articles in real-time to the age
 - How long do refunds take?
 - What is your refund policy?
 - What payment types do you accept?
+
+
+</div>
+<div class="col">
+  
+![Facebook](/images/gsol-dgt-fb-qr.png)
+
+</div>
+</div>
+
+
+

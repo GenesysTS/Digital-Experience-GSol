@@ -38,3 +38,5 @@ This section will present story boards helping to articulate the benefits of the
 
 - [GSol story presentation](https://storage.googleapis.com/gdemo-workshops-test/gsol_journey_deck.pptx)
 - [GSol story script](/documents/gsol_digital_demo_script.docx)
+- [Reference Demo Delivered By Digital & AI Specialist](https://contentmanagement.mypurecloud.com/document-viewer/#/1/qujgrjhd5bfuldcuwwnz2zlzqy)
+
