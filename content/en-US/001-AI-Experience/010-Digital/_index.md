@@ -373,7 +373,7 @@ Our customer is environmentally conscious and is looking for ways to reduce hous
 ### Smart Advisor
 
 {{% notice warning %}}
-> Don't forget to add your PCN Agent to the GSol Customer Service queue if you want to use Smart Advisor capabilities. [Check instructions here]({{< relref "../../../../030-Knowledge/030-Smart-Advisor/" >}} "Knowledge") 
+> Don't forget to add your PCN Agent to the GSol Customer Service queue if you want to use Smart Advisor capabilities. [Check instructions here]({{< relref "../../../../../005-Knowledge/030-Smart-Advisor/" >}} "Knowledge") 
 {{% /notice %}}
 
 <div class="row">
